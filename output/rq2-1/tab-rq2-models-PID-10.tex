@@ -1,0 +1,38 @@
+\begin{tabular}{llrrr}
+\toprule
+        Method &                                           Input &  Precision &  Recall &   F1 \\
+\midrule
+           MLP &                            With delta fitnesses &       0.98 &    0.86 & 0.90 \\
+           MLP &             With delta fitnesses w\o blueprints &       0.95 &    0.80 & 0.84 \\
+           MLP &                With delta fitnesses w\o weather &       0.96 &    0.80 & 0.84 \\
+ Random Forest &                            With delta fitnesses &       0.99 &    0.69 & 0.81 \\
+ Random Forest &                With delta fitnesses w\o weather &       0.99 &    0.68 & 0.81 \\
+ Random Forest &    With delta fitnesses w\o weather, blueprints &       0.99 &    0.69 & 0.80 \\
+ Random Forest &             With delta fitnesses w\o blueprints &       0.99 &    0.69 & 0.80 \\
+           MLP &    With delta fitnesses w\o weather, blueprints &       0.95 &    0.71 & 0.80 \\
+ Decision Tree &             With delta fitnesses w\o blueprints &       1.00 &    0.68 & 0.80 \\
+ Decision Tree &    With delta fitnesses w\o weather, blueprints &       0.99 &    0.67 & 0.79 \\
+ Decision Tree &                            With delta fitnesses &       1.00 &    0.67 & 0.79 \\
+ Decision Tree &                With delta fitnesses w\o weather &       0.99 &    0.67 & 0.79 \\
+           MLP &             With 1 set of fitnesses w\o weather &       0.92 &    0.96 & 0.74 \\
+           MLP & With 1 set of fitnesses w\o weather, blueprints &       1.00 &    0.86 & 0.71 \\
+           MLP &                         With 1 set of fitnesses &       0.79 &    0.87 & 0.71 \\
+           MLP &          With 1 set of fitnesses w\o blueprints &       0.74 &    0.78 & 0.68 \\
+ Random Forest &                         With 1 set of fitnesses &       0.76 &    0.63 & 0.66 \\
+ Random Forest &             With 1 set of fitnesses w\o weather &       0.75 &    0.59 & 0.64 \\
+ Random Forest & With 1 set of fitnesses w\o weather, blueprints &       0.71 &    0.61 & 0.63 \\
+ Decision Tree & With 1 set of fitnesses w\o weather, blueprints &       0.77 &    0.60 & 0.63 \\
+ Random Forest &          With 1 set of fitnesses w\o blueprints &       0.75 &    0.59 & 0.63 \\
+ Decision Tree &             With 1 set of fitnesses w\o weather &       0.78 &    0.57 & 0.63 \\
+ Decision Tree &          With 1 set of fitnesses w\o blueprints &       0.77 &    0.59 & 0.62 \\
+ Decision Tree &                         With 1 set of fitnesses &       0.78 &    0.57 & 0.62 \\
+           SVM &    With delta fitnesses w\o weather, blueprints &       0.97 &    0.45 & 0.62 \\
+           SVM &             With delta fitnesses w\o blueprints &       0.97 &    0.45 & 0.62 \\
+           SVM &                With delta fitnesses w\o weather &       0.98 &    0.45 & 0.62 \\
+           SVM &                            With delta fitnesses &       0.97 &    0.45 & 0.62 \\
+           SVM &          With 1 set of fitnesses w\o blueprints &       1.00 &    0.15 & 0.26 \\
+           SVM &                         With 1 set of fitnesses &       1.00 &    0.15 & 0.26 \\
+           SVM & With 1 set of fitnesses w\o weather, blueprints &       1.00 &    0.07 & 0.13 \\
+           SVM &             With 1 set of fitnesses w\o weather &       1.00 &    0.07 & 0.13 \\
+\bottomrule
+\end{tabular}

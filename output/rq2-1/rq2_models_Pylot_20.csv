@@ -1,0 +1,33 @@
+Method,Input,Precision,Recall,F1
+MLP,With delta fitnesses w\o weather,0.992,0.9323308270676691,0.9612403100775193
+MLP,With delta fitnesses,0.9841269841269841,0.9323308270676691,0.9575289575289575
+MLP,With delta fitnesses w\o blueprints,1.0,0.8947368421052632,0.9444444444444444
+MLP,"With delta fitnesses w\o weather, blueprints",0.9302325581395349,0.9022556390977443,0.916030534351145
+ Random Forest,With delta fitnesses w\o weather,0.8405797101449275,0.8721804511278195,0.8560885608856088
+ Random Forest,"With delta fitnesses w\o weather, blueprints",0.8455882352941176,0.8646616541353384,0.8550185873605948
+ Random Forest,With delta fitnesses w\o blueprints,0.8444444444444444,0.8571428571428571,0.8507462686567164
+ Random Forest,With delta fitnesses,0.8111888111888111,0.8721804511278195,0.8405797101449276
+Decision Tree,With delta fitnesses,0.8582677165354331,0.8195488721804511,0.8384615384615385
+Decision Tree,With delta fitnesses w\o blueprints,0.8582677165354331,0.8195488721804511,0.8384615384615385
+SVM,With delta fitnesses w\o weather,0.7672955974842768,0.9172932330827067,0.8356164383561644
+Decision Tree,With delta fitnesses w\o weather,0.8629032258064516,0.8045112781954887,0.8326848249027238
+Decision Tree,"With delta fitnesses w\o weather, blueprints",0.8629032258064516,0.8045112781954887,0.8326848249027238
+SVM,"With delta fitnesses w\o weather, blueprints",0.8512396694214877,0.7744360902255639,0.811023622047244
+SVM,With delta fitnesses,0.7333333333333333,0.8270676691729323,0.7773851590106007
+SVM,With delta fitnesses w\o blueprints,0.6711409395973155,0.7518796992481203,0.7092198581560283
+MLP,With 1 set of fitnesses w\o weather,0.5909090909090909,0.8125,0.6842105263157896
+ Random Forest,"With 1 set of fitnesses w\o weather, blueprints",0.6111111111111112,0.6875,0.6470588235294118
+ Random Forest,With 1 set of fitnesses,0.5641025641025641,0.6875,0.619718309859155
+ Random Forest,With 1 set of fitnesses w\o blueprints,0.5526315789473685,0.65625,0.6
+ Random Forest,With 1 set of fitnesses w\o weather,0.5238095238095238,0.6875,0.5945945945945946
+SVM,With 1 set of fitnesses w\o weather,0.45614035087719296,0.8125,0.5842696629213483
+MLP,With 1 set of fitnesses,0.46938775510204084,0.71875,0.5679012345679012
+MLP,"With 1 set of fitnesses w\o weather, blueprints",0.5135135135135135,0.59375,0.5507246376811593
+Decision Tree,With 1 set of fitnesses w\o blueprints,0.4583333333333333,0.6875,0.5499999999999999
+Decision Tree,"With 1 set of fitnesses w\o weather, blueprints",0.44,0.6875,0.5365853658536586
+MLP,With 1 set of fitnesses w\o blueprints,0.4375,0.65625,0.525
+Decision Tree,With 1 set of fitnesses,0.4107142857142857,0.71875,0.5227272727272728
+Decision Tree,With 1 set of fitnesses w\o weather,0.4074074074074074,0.6875,0.5116279069767441
+SVM,With 1 set of fitnesses,0.38095238095238093,0.75,0.5052631578947369
+SVM,"With 1 set of fitnesses w\o weather, blueprints",0.38333333333333336,0.71875,0.5
+SVM,With 1 set of fitnesses w\o blueprints,0.34328358208955223,0.71875,0.4646464646464647
