@@ -1,0 +1,640 @@
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.57777778 0.69090909 0.65384615 0.79032258 0.67213115]
+Mean precision score: 0.6769973501438336
+Recall scores: [0.61904762 0.45238095 0.60714286 0.58333333 0.48809524]
+Mean recall score: 0.55
+F1 scores: [0.59770115 0.54676259 0.62962963 0.67123288 0.56551724]
+Mean F1 score: 0.6021686974149227
+Test set precision: [0.6923076923076923, 0.7833333333333333, 0.7108433734939759, 0.7428571428571429, 0.7333333333333333]
+Test set mean precision: 0.7325349750650956
+Test set best precision: 0.7833333333333333
+Test set recall: [0.5675675675675675, 0.42342342342342343, 0.5315315315315315, 0.46846846846846846, 0.4954954954954955]
+Test set mean recall: 0.49729729729729727
+Test set best recall: 0.5675675675675675
+Test set F1: [0.6237623762376238, 0.5497076023391813, 0.6082474226804124, 0.574585635359116, 0.5913978494623656]
+Test set mean F1: 0.5895401772157398
+Test set best F1: 0.6237623762376238
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.56470588 0.69090909 0.70422535 0.78333333 0.66129032]
+Mean precision score: 0.6808927962577374
+Recall scores: [0.57142857 0.45238095 0.5952381  0.55952381 0.48809524]
+Mean recall score: 0.5333333333333334
+F1 scores: [0.56804734 0.54676259 0.64516129 0.65277778 0.56164384]
+Mean F1 score: 0.5948785661845921
+Test set precision: [0.7078651685393258, 0.7833333333333333, 0.7215189873417721, 0.7391304347826086, 0.7567567567567568]
+Test set mean precision: 0.7417209361507593
+Test set best precision: 0.7833333333333333
+Test set recall: [0.5675675675675675, 0.42342342342342343, 0.5135135135135135, 0.4594594594594595, 0.5045045045045045]
+Test set mean recall: 0.49369369369369365
+Test set best recall: 0.5675675675675675
+Test set F1: [0.6299999999999999, 0.5497076023391813, 0.6, 0.5666666666666667, 0.6054054054054054]
+Test set mean F1: 0.5903559348822507
+Test set best F1: 0.6299999999999999
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.55844156 0.5974026  0.63333333 0.67058824 0.640625  ]
+Mean precision score: 0.6200781448943213
+Recall scores: [0.51190476 0.54761905 0.45238095 0.67857143 0.48809524]
+Mean recall score: 0.5357142857142858
+F1 scores: [0.53416149 0.57142857 0.52777778 0.67455621 0.55405405]
+Mean F1 score: 0.5723956213922768
+Test set precision: [0.7076923076923077, 0.6701030927835051, 0.7678571428571429, 0.6458333333333334, 0.6811594202898551]
+Test set mean precision: 0.6945290593912288
+Test set best precision: 0.7678571428571429
+Test set recall: [0.4144144144144144, 0.5855855855855856, 0.38738738738738737, 0.5585585585585585, 0.42342342342342343]
+Test set mean recall: 0.4738738738738739
+Test set best recall: 0.5855855855855856
+Test set F1: [0.5227272727272728, 0.6249999999999999, 0.5149700598802396, 0.5990338164251208, 0.5222222222222223]
+Test set mean F1: 0.5567906742509711
+Test set best F1: 0.6249999999999999
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.58333333 0.66071429 0.71428571 0.62365591 0.63829787]
+Mean precision score: 0.6440574239304506
+Recall scores: [0.41666667 0.44047619 0.5952381  0.69047619 0.35714286]
+Mean recall score: 0.5000000000000001
+F1 scores: [0.48611111 0.52857143 0.64935065 0.65536723 0.45801527]
+Mean F1 score: 0.5554831375694358
+Test set precision: [0.76, 0.7142857142857143, 0.765625, 0.6633663366336634, 0.7636363636363637]
+Test set mean precision: 0.7333826829111483
+Test set best precision: 0.765625
+Test set recall: [0.34234234234234234, 0.40540540540540543, 0.44144144144144143, 0.6036036036036037, 0.3783783783783784]
+Test set mean recall: 0.43423423423423424
+Test set best recall: 0.6036036036036037
+Test set F1: [0.4720496894409938, 0.5172413793103449, 0.56, 0.6320754716981132, 0.5060240963855421]
+Test set mean F1: 0.5374781273669988
+Test set best F1: 0.6320754716981132
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96333333 0.97894737 0.95973154 0.98986486 1.        ]
+Mean precision score: 0.9783754220486823
+Recall scores: [0.67523364 0.65186916 0.6682243  0.68618267 0.60187354]
+Mean recall score: 0.6566766617785462
+F1 scores: [0.79395604 0.7826087  0.78787879 0.81051176 0.75146199]
+Mean F1 score: 0.7852834544721894
+Test set precision: [0.976063829787234, 0.994475138121547, 0.9811320754716981, 0.9832869080779945, 1.0]
+Test set mean precision: 0.9869915902916947
+Test set best precision: 1.0
+Test set recall: [0.6697080291970803, 0.656934306569343, 0.6642335766423357, 0.6441605839416058, 0.6423357664233577]
+Test set mean recall: 0.6554744525547445
+Test set best recall: 0.6697080291970803
+Test set F1: [0.7943722943722945, 0.7912087912087912, 0.7921653971708378, 0.7783902976846748, 0.7822222222222222]
+Test set mean F1: 0.787671800531764
+Test set best F1: 0.7943722943722945
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96969697 0.97879859 0.95973154 0.96116505 0.93602694]
+Mean precision score: 0.9610838168928388
+Recall scores: [0.6728972  0.64719626 0.6682243  0.69555035 0.65105386]
+Mean recall score: 0.666984394493204
+F1 scores: [0.79448276 0.77918425 0.78787879 0.80706522 0.7679558 ]
+Mean F1 score: 0.7873133625068864
+Test set precision: [0.9863387978142076, 0.994475138121547, 0.9811320754716981, 0.9705882352941176, 0.9734748010610079]
+Test set mean precision: 0.9812018095525158
+Test set best precision: 0.994475138121547
+Test set recall: [0.6587591240875912, 0.656934306569343, 0.6642335766423357, 0.6624087591240876, 0.6697080291970803]
+Test set mean recall: 0.6624087591240875
+Test set best recall: 0.6697080291970803
+Test set F1: [0.7899343544857769, 0.7912087912087912, 0.7921653971708378, 0.7874186550976139, 0.7935135135135135]
+Test set mean F1: 0.7908481422953066
+Test set best F1: 0.7935135135135135
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98596491 0.94314381 0.9893617  0.98986486 1.        ]
+Mean precision score: 0.9816670583964513
+Recall scores: [0.65654206 0.6588785  0.65186916 0.68618267 0.59953162]
+Mean recall score: 0.6506008010680908
+F1 scores: [0.78821879 0.77579092 0.78591549 0.81051176 0.74963397]
+Mean F1 score: 0.7820141865482502
+Test set precision: [0.9726775956284153, 0.9685863874345549, 0.9831932773109243, 0.9832402234636871, 0.9971671388101983]
+Test set mean precision: 0.9809729245295561
+Test set best precision: 0.9971671388101983
+Test set recall: [0.6496350364963503, 0.6751824817518248, 0.6405109489051095, 0.6423357664233577, 0.6423357664233577]
+Test set mean recall: 0.65
+Test set best recall: 0.6751824817518248
+Test set F1: [0.7789934354485776, 0.7956989247311826, 0.7756906077348066, 0.7770419426048565, 0.7813540510543839]
+Test set mean F1: 0.7817557923147614
+Test set best F1: 0.7956989247311826
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [1.         0.94295302 0.99285714 0.96116505 0.98846154]
+Mean precision score: 0.9770873499993197
+Recall scores: [0.64953271 0.65654206 0.64953271 0.69555035 0.60187354]
+Mean recall score: 0.6506062728446672
+F1 scores: [0.78753541 0.77410468 0.78531073 0.80706522 0.74818049]
+Mean F1 score: 0.7804393081440864
+Test set precision: [0.9914285714285714, 0.968503937007874, 0.9915014164305949, 0.9705882352941176, 0.9886685552407932]
+Test set mean precision: 0.9821381430803904
+Test set best precision: 0.9915014164305949
+Test set recall: [0.6332116788321168, 0.6733576642335767, 0.6386861313868614, 0.6624087591240876, 0.6368613138686131]
+Test set mean recall: 0.6489051094890511
+Test set best recall: 0.6733576642335767
+Test set F1: [0.7728285077951003, 0.7944025834230355, 0.776914539400666, 0.7874186550976139, 0.7746947835738068]
+Test set mean F1: 0.7812518138580445
+Test set best F1: 0.7944025834230355
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.58024691 0.58227848 0.63291139 0.67142857 0.69444444]
+Mean precision score: 0.6322619605741968
+Recall scores: [0.55952381 0.54761905 0.5952381  0.55952381 0.5952381 ]
+Mean recall score: 0.5714285714285714
+F1 scores: [0.56969697 0.56441718 0.61349693 0.61038961 0.64102564]
+Mean F1 score: 0.5998052663083338
+Test set precision: [0.7, 0.673469387755102, 0.7647058823529411, 0.6547619047619048, 0.6931818181818182]
+Test set mean precision: 0.6972237986103532
+Test set best precision: 0.7647058823529411
+Test set recall: [0.6306306306306306, 0.5945945945945946, 0.5855855855855856, 0.4954954954954955, 0.5495495495495496]
+Test set mean recall: 0.5711711711711712
+Test set best recall: 0.6306306306306306
+Test set F1: [0.6635071090047393, 0.6315789473684211, 0.663265306122449, 0.5641025641025641, 0.6130653266331658]
+Test set mean F1: 0.6271038506462678
+Test set best F1: 0.6635071090047393
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.57142857 0.67105263 0.71641791 0.73015873 0.65333333]
+Mean precision score: 0.6684782353894687
+Recall scores: [0.57142857 0.60714286 0.57142857 0.54761905 0.58333333]
+Mean recall score: 0.5761904761904761
+F1 scores: [0.57142857 0.6375     0.63576159 0.62585034 0.6163522 ]
+Mean F1 score: 0.6173785404452922
+Test set precision: [0.7021276595744681, 0.6888888888888889, 0.7105263157894737, 0.7468354430379747, 0.7108433734939759]
+Test set mean precision: 0.7118443361569562
+Test set best precision: 0.7468354430379747
+Test set recall: [0.5945945945945946, 0.5585585585585585, 0.4864864864864865, 0.5315315315315315, 0.5315315315315315]
+Test set mean recall: 0.5405405405405406
+Test set best recall: 0.5945945945945946
+Test set F1: [0.6439024390243904, 0.6169154228855721, 0.5775401069518716, 0.6210526315789474, 0.6082474226804124]
+Test set mean F1: 0.6135316046242388
+Test set best F1: 0.6439024390243904
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.59493671 0.60240964 0.64912281 0.68493151 0.65714286]
+Mean precision score: 0.6377087036849385
+Recall scores: [0.55952381 0.5952381  0.44047619 0.5952381  0.54761905]
+Mean recall score: 0.5476190476190477
+F1 scores: [0.57668712 0.5988024  0.5248227  0.63694268 0.5974026 ]
+Mean F1 score: 0.5869314958742584
+Test set precision: [0.6701030927835051, 0.6391752577319587, 0.746031746031746, 0.6956521739130435, 0.6511627906976745]
+Test set mean precision: 0.6804250122315855
+Test set best precision: 0.746031746031746
+Test set recall: [0.5855855855855856, 0.5585585585585585, 0.42342342342342343, 0.5765765765765766, 0.5045045045045045]
+Test set mean recall: 0.5297297297297296
+Test set best recall: 0.5855855855855856
+Test set F1: [0.6249999999999999, 0.596153846153846, 0.5402298850574712, 0.6305418719211823, 0.5685279187817259]
+Test set mean F1: 0.592090704382845
+Test set best F1: 0.6305418719211823
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.57831325 0.59259259 0.66666667 0.71014493 0.57471264]
+Mean precision score: 0.62448601669714
+Recall scores: [0.57142857 0.57142857 0.57142857 0.58333333 0.5952381 ]
+Mean recall score: 0.5785714285714285
+F1 scores: [0.5748503  0.58181818 0.61538462 0.64052288 0.58479532]
+Mean F1 score: 0.5994742588116829
+Test set precision: [0.6538461538461539, 0.6632653061224489, 0.6829268292682927, 0.7051282051282052, 0.6770833333333334]
+Test set mean precision: 0.676449965539687
+Test set best precision: 0.7051282051282052
+Test set recall: [0.6126126126126126, 0.5855855855855856, 0.5045045045045045, 0.4954954954954955, 0.5855855855855856]
+Test set mean recall: 0.5567567567567566
+Test set best recall: 0.6126126126126126
+Test set F1: [0.6325581395348838, 0.6220095693779905, 0.5803108808290156, 0.582010582010582, 0.6280193236714977]
+Test set mean F1: 0.6089816990847939
+Test set best F1: 0.6325581395348838
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98013245 0.98305085 0.97610922 0.94242424 0.98201439]
+Mean precision score: 0.9727462287438537
+Recall scores: [0.69158879 0.67757009 0.6682243  0.72833724 0.63934426]
+Mean recall score: 0.6810129352798266
+F1 scores: [0.8109589  0.802213   0.79334258 0.82166446 0.77446809]
+Mean F1 score: 0.8005294070685679
+Test set precision: [0.9866666666666667, 0.9947089947089947, 0.978891820580475, 0.9717223650385605, 0.994535519125683]
+Test set mean precision: 0.985305073224076
+Test set best precision: 0.9947089947089947
+Test set recall: [0.6751824817518248, 0.6861313868613139, 0.677007299270073, 0.6897810218978102, 0.6642335766423357]
+Test set mean recall: 0.6784671532846716
+Test set best recall: 0.6897810218978102
+Test set F1: [0.8017334777898159, 0.8120950323974082, 0.8004314994606258, 0.8068303094983992, 0.7964989059080962]
+Test set mean F1: 0.803517845010869
+Test set best F1: 0.8120950323974082
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.99322034 0.98958333 0.97931034 0.9504644  0.9754386 ]
+Mean precision score: 0.9776034019840056
+Recall scores: [0.68457944 0.66588785 0.6635514  0.71896956 0.65105386]
+Mean recall score: 0.6768084221585065
+F1 scores: [0.81051176 0.79608939 0.79108635 0.81866667 0.78089888]
+Mean F1 score: 0.79945060721816
+Test set precision: [0.9893617021276596, 0.989247311827957, 0.9812834224598931, 0.9790575916230366, 0.9946236559139785]
+Test set mean precision: 0.9867147367905051
+Test set best precision: 0.9946236559139785
+Test set recall: [0.6788321167883211, 0.6715328467153284, 0.6697080291970803, 0.6824817518248175, 0.6751824817518248]
+Test set mean recall: 0.6755474452554745
+Test set best recall: 0.6824817518248175
+Test set F1: [0.8051948051948051, 0.7999999999999999, 0.7960954446854663, 0.8043010752688172, 0.8043478260869565]
+Test set mean F1: 0.801987830247209
+Test set best F1: 0.8051948051948051
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98662207 0.94855305 0.97923875 0.94654088 0.98897059]
+Mean precision score: 0.9699850702609346
+Recall scores: [0.68925234 0.68925234 0.66121495 0.70491803 0.62997658]
+Mean recall score: 0.6749228479502726
+F1 scores: [0.81155433 0.79837618 0.78940028 0.80805369 0.76967096]
+Mean F1 score: 0.7954110891269321
+Test set precision: [0.9839142091152815, 0.9593908629441624, 0.9809782608695652, 0.9788359788359788, 0.991869918699187]
+Test set mean precision: 0.9789978460928349
+Test set best precision: 0.991869918699187
+Test set recall: [0.6697080291970803, 0.6897810218978102, 0.6587591240875912, 0.6751824817518248, 0.6678832116788321]
+Test set mean recall: 0.6722627737226277
+Test set best recall: 0.6897810218978102
+Test set F1: [0.7969598262757871, 0.802547770700637, 0.7882096069868996, 0.7991360691144709, 0.7982551799345692]
+Test set mean F1: 0.7970216906024727
+Test set best F1: 0.802547770700637
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98644068 0.94480519 0.96632997 0.95061728 0.99256506]
+Mean precision score: 0.9681516357627924
+Recall scores: [0.67990654 0.67990654 0.67056075 0.72131148 0.62529274]
+Mean recall score: 0.6753956094464751
+F1 scores: [0.80497925 0.79076087 0.79172414 0.82023968 0.76724138]
+Mean F1 score: 0.7949890640689457
+Test set precision: [0.9836512261580381, 0.9593908629441624, 0.9713541666666666, 0.9688311688311688, 0.9863013698630136]
+Test set mean precision: 0.9739057588926098
+Test set best precision: 0.9863013698630136
+Test set recall: [0.6587591240875912, 0.6897810218978102, 0.6806569343065694, 0.6806569343065694, 0.656934306569343]
+Test set mean recall: 0.6733576642335766
+Test set best recall: 0.6897810218978102
+Test set F1: [0.789071038251366, 0.802547770700637, 0.8004291845493563, 0.7995712754555198, 0.7886089813800657]
+Test set mean F1: 0.7960456500673889
+Test set best F1: 0.802547770700637
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         1.         0.7826087  1.         0.83333333]
+Mean precision score: 0.9231884057971014
+Recall scores: [0.07142857 0.07142857 0.21428571 0.0952381  0.05952381]
+Mean recall score: 0.10238095238095238
+F1 scores: [0.13333333 0.13333333 0.3364486  0.17391304 0.11111111]
+Mean F1 score: 0.17762788387737594
+Test set precision: [1.0, 1.0, 0.7727272727272727, 1.0, 1.0]
+Test set mean precision: 0.9545454545454545
+Test set best precision: 1.0
+Test set recall: [0.07207207207207207, 0.07207207207207207, 0.15315315315315314, 0.07207207207207207, 0.07207207207207207]
+Test set mean recall: 0.08828828828828827
+Test set best recall: 0.15315315315315314
+Test set F1: [0.13445378151260504, 0.13445378151260504, 0.2556390977443609, 0.13445378151260504, 0.13445378151260504]
+Test set mean F1: 0.1586908447589562
+Test set best F1: 0.2556390977443609
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         1.         0.85714286 1.         0.83333333]
+Mean precision score: 0.9380952380952381
+Recall scores: [0.07142857 0.07142857 0.14285714 0.0952381  0.05952381]
+Mean recall score: 0.08809523809523809
+F1 scores: [0.13333333 0.13333333 0.24489796 0.17391304 0.11111111]
+Mean F1 score: 0.1593177560879424
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.07207207207207207, 0.07207207207207207, 0.07207207207207207, 0.07207207207207207, 0.07207207207207207]
+Test set mean recall: 0.07207207207207207
+Test set best recall: 0.07207207207207207
+Test set F1: [0.13445378151260504, 0.13445378151260504, 0.13445378151260504, 0.13445378151260504, 0.13445378151260504]
+Test set mean F1: 0.13445378151260504
+Test set best F1: 0.13445378151260504
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         1.         0.84210526 1.         0.83333333]
+Mean precision score: 0.9350877192982455
+Recall scores: [0.07142857 0.07142857 0.19047619 0.0952381  0.05952381]
+Mean recall score: 0.09761904761904762
+F1 scores: [0.13333333 0.13333333 0.31067961 0.17391304 0.11111111]
+Mean F1 score: 0.1724740865813048
+Test set precision: [1.0, 1.0, 0.9444444444444444, 1.0, 1.0]
+Test set mean precision: 0.9888888888888889
+Test set best precision: 1.0
+Test set recall: [0.07207207207207207, 0.07207207207207207, 0.15315315315315314, 0.07207207207207207, 0.07207207207207207]
+Test set mean recall: 0.08828828828828827
+Test set best recall: 0.15315315315315314
+Test set F1: [0.13445378151260504, 0.13445378151260504, 0.2635658914728682, 0.13445378151260504, 0.13445378151260504]
+Test set mean F1: 0.16027620350465765
+Test set best F1: 0.2635658914728682
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         1.         0.85714286 1.         0.83333333]
+Mean precision score: 0.9380952380952381
+Recall scores: [0.07142857 0.07142857 0.14285714 0.0952381  0.05952381]
+Mean recall score: 0.08809523809523809
+F1 scores: [0.13333333 0.13333333 0.24489796 0.17391304 0.11111111]
+Mean F1 score: 0.1593177560879424
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.07207207207207207, 0.07207207207207207, 0.07207207207207207, 0.07207207207207207, 0.07207207207207207]
+Test set mean recall: 0.07207207207207207
+Test set best recall: 0.07207207207207207
+Test set F1: [0.13445378151260504, 0.13445378151260504, 0.13445378151260504, 0.13445378151260504, 0.13445378151260504]
+Test set mean F1: 0.13445378151260504
+Test set best F1: 0.13445378151260504
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96618357 0.96059113 0.96858639 0.94545455 0.96111111]
+Mean precision score: 0.9603853503768729
+Recall scores: [0.46728972 0.45560748 0.43224299 0.48711944 0.40515222]
+Mean recall score: 0.4494823699358708
+F1 scores: [0.62992126 0.61806656 0.59773829 0.64296754 0.57001647]
+Mean F1 score: 0.6117420250771617
+Test set precision: [0.9686274509803922, 0.9724409448818898, 0.9686274509803922, 0.96875, 0.9686274509803922]
+Test set mean precision: 0.9694146595646134
+Test set best precision: 0.9724409448818898
+Test set recall: [0.45072992700729925, 0.45072992700729925, 0.45072992700729925, 0.45255474452554745, 0.45072992700729925]
+Test set mean recall: 0.45109489051094886
+Test set best recall: 0.45255474452554745
+Test set F1: [0.6151930261519303, 0.6159600997506235, 0.6151930261519303, 0.6169154228855721, 0.6151930261519303]
+Test set mean F1: 0.6156909202183973
+Test set best F1: 0.6169154228855721
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96618357 0.96517413 0.96858639 0.94545455 0.96111111]
+Mean precision score: 0.9613019496465345
+Recall scores: [0.46728972 0.45327103 0.43224299 0.48711944 0.40515222]
+Mean recall score: 0.44901508021624464
+F1 scores: [0.62992126 0.61685215 0.59773829 0.64296754 0.57001647]
+Mean F1 score: 0.6114991421270912
+Test set precision: [0.9686274509803922, 0.9762845849802372, 0.9686274509803922, 0.96875, 0.9686274509803922]
+Test set mean precision: 0.9701833875842827
+Test set best precision: 0.9762845849802372
+Test set recall: [0.45072992700729925, 0.45072992700729925, 0.45072992700729925, 0.45255474452554745, 0.45072992700729925]
+Test set mean recall: 0.45109489051094886
+Test set best recall: 0.45255474452554745
+Test set F1: [0.6151930261519303, 0.6167290886392011, 0.6151930261519303, 0.6169154228855721, 0.6151930261519303]
+Test set mean F1: 0.6158447179961127
+Test set best F1: 0.6169154228855721
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96618357 0.96039604 0.96858639 0.94545455 0.96111111]
+Mean precision score: 0.9603463316966797
+Recall scores: [0.46728972 0.45327103 0.43224299 0.48711944 0.40515222]
+Mean recall score: 0.44901508021624464
+F1 scores: [0.62992126 0.61587302 0.59773829 0.64296754 0.57001647]
+Mean F1 score: 0.6113033160489122
+Test set precision: [0.9686274509803922, 0.9724409448818898, 0.9686274509803922, 0.96875, 0.9686274509803922]
+Test set mean precision: 0.9694146595646134
+Test set best precision: 0.9724409448818898
+Test set recall: [0.45072992700729925, 0.45072992700729925, 0.45072992700729925, 0.45255474452554745, 0.45072992700729925]
+Test set mean recall: 0.45109489051094886
+Test set best recall: 0.45255474452554745
+Test set F1: [0.6151930261519303, 0.6159600997506235, 0.6151930261519303, 0.6169154228855721, 0.6151930261519303]
+Test set mean F1: 0.6156909202183973
+Test set best F1: 0.6169154228855721
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96618357 0.96039604 0.96858639 0.94545455 0.96111111]
+Mean precision score: 0.9603463316966797
+Recall scores: [0.46728972 0.45327103 0.43224299 0.48711944 0.40515222]
+Mean recall score: 0.44901508021624464
+F1 scores: [0.62992126 0.61587302 0.59773829 0.64296754 0.57001647]
+Mean F1 score: 0.6113033160489122
+Test set precision: [0.9686274509803922, 0.9724409448818898, 0.9686274509803922, 0.96875, 0.9686274509803922]
+Test set mean precision: 0.9694146595646134
+Test set best precision: 0.9724409448818898
+Test set recall: [0.45072992700729925, 0.45072992700729925, 0.45072992700729925, 0.45255474452554745, 0.45072992700729925]
+Test set mean recall: 0.45109489051094886
+Test set best recall: 0.45255474452554745
+Test set F1: [0.6151930261519303, 0.6159600997506235, 0.6151930261519303, 0.6169154228855721, 0.6151930261519303]
+Test set mean F1: 0.6156909202183973
+Test set best F1: 0.6169154228855721
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.64583333 0.61111111 0.52592593 0.61403509 0.84210526]
+Mean precision score: 0.6478021442495127
+Recall scores: [0.36904762 0.52380952 0.8452381  0.41666667 0.57142857]
+Mean recall score: 0.5452380952380953
+F1 scores: [0.46969697 0.56410256 0.64840183 0.4964539  0.68085106]
+Mean F1 score: 0.5719012649645119
+Test set precision: [0.7246376811594203, 0.6470588235294118, 0.5914634146341463, 0.7, 0.7887323943661971]
+Test set mean precision: 0.690378462737835
+Test set best precision: 0.7887323943661971
+Test set recall: [0.45045045045045046, 0.4954954954954955, 0.8738738738738738, 0.3783783783783784, 0.5045045045045045]
+Test set mean recall: 0.5405405405405406
+Test set best recall: 0.8738738738738738
+Test set F1: [0.5555555555555556, 0.5612244897959184, 0.7054545454545456, 0.4912280701754387, 0.6153846153846152]
+Test set mean F1: 0.5857694552732147
+Test set best F1: 0.7054545454545456
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.51633987 0.80769231 0.6056338  0.50632911 0.81481481]
+Mean precision score: 0.6501619817058242
+Recall scores: [0.94047619 0.25       0.51190476 0.95238095 0.26190476]
+Mean recall score: 0.5833333333333333
+F1 scores: [0.66666667 0.38181818 0.55483871 0.66115702 0.3963964 ]
+Mean F1 score: 0.5321753958704105
+Test set precision: [0.5919540229885057, 0.9166666666666666, 0.7037037037037037, 0.5944444444444444, 0.875]
+Test set mean precision: 0.7363537675606641
+Test set best precision: 0.9166666666666666
+Test set recall: [0.9279279279279279, 0.2972972972972973, 0.5135135135135135, 0.963963963963964, 0.25225225225225223]
+Test set mean recall: 0.590990990990991
+Test set best recall: 0.963963963963964
+Test set F1: [0.7228070175438597, 0.4489795918367347, 0.59375, 0.7353951890034364, 0.3916083916083915]
+Test set mean F1: 0.5785080379984845
+Test set best F1: 0.7353951890034364
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.575      0.49612403 0.54237288 0.60416667 0.57894737]
+Mean precision score: 0.5593221894902807
+Recall scores: [0.54761905 0.76190476 0.76190476 0.3452381  0.6547619 ]
+Mean recall score: 0.6142857142857142
+F1 scores: [0.56097561 0.60093897 0.63366337 0.43939394 0.61452514]
+Mean F1 score: 0.5698994044575251
+Test set precision: [0.6140350877192983, 0.564935064935065, 0.627906976744186, 0.7368421052631579, 0.6386554621848739]
+Test set mean precision: 0.6364749393693162
+Test set best precision: 0.7368421052631579
+Test set recall: [0.6306306306306306, 0.7837837837837838, 0.7297297297297297, 0.3783783783783784, 0.6846846846846847]
+Test set mean recall: 0.6414414414414414
+Test set best recall: 0.7837837837837838
+Test set F1: [0.6222222222222222, 0.6566037735849056, 0.675, 0.5, 0.6608695652173913]
+Test set mean F1: 0.6229391122049037
+Test set best F1: 0.675
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.82352941 0.74074074 0.5472973  0.9375     0.61904762]
+Mean precision score: 0.7336230137700726
+Recall scores: [0.16666667 0.23809524 0.96428571 0.17857143 0.46428571]
+Mean recall score: 0.4023809523809524
+F1 scores: [0.27722772 0.36036036 0.69827586 0.3        0.53061224]
+Mean F1 score: 0.43329523801991243
+Test set precision: [0.9130434782608695, 0.8125, 0.6089743589743589, 1.0, 0.6911764705882353]
+Test set mean precision: 0.8051388615646928
+Test set best precision: 1.0
+Test set recall: [0.1891891891891892, 0.23423423423423423, 0.8558558558558559, 0.1981981981981982, 0.42342342342342343]
+Test set mean recall: 0.3801801801801802
+Test set best recall: 0.8558558558558559
+Test set F1: [0.3134328358208956, 0.3636363636363636, 0.7116104868913857, 0.33082706766917297, 0.5251396648044693]
+Test set mean F1: 0.4489292837644574
+Test set best F1: 0.7116104868913857
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97450425 0.953125   0.97150997 0.9488491  0.97142857]
+Mean precision score: 0.9638833794179325
+Recall scores: [0.80373832 0.85514019 0.79672897 0.86885246 0.79625293]
+Mean recall score: 0.8241425726104751
+F1 scores: [0.8809219  0.90147783 0.87548139 0.90709046 0.87516088]
+Mean F1 score: 0.8880264907240161
+Test set precision: [0.9815242494226328, 0.9548254620123203, 0.9821029082774049, 0.9571428571428572, 0.948936170212766]
+Test set mean precision: 0.9649063294135963
+Test set best precision: 0.9821029082774049
+Test set recall: [0.7755474452554745, 0.8485401459854015, 0.801094890510949, 0.8558394160583942, 0.8138686131386861]
+Test set mean recall: 0.818978102189781
+Test set best recall: 0.8558394160583942
+Test set F1: [0.8664627930682978, 0.8985507246376812, 0.8824120603015075, 0.903660886319846, 0.8762278978388998]
+Test set mean F1: 0.8854628724332464
+Test set best F1: 0.903660886319846
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.92261905 0.95876289 0.95195195 0.83490566 0.92163009]
+Mean precision score: 0.9179739281180368
+Recall scores: [0.72429907 0.65186916 0.74065421 0.82903981 0.68852459]
+Mean recall score: 0.7268773665433692
+F1 scores: [0.81151832 0.77607789 0.83311432 0.8319624  0.78820375]
+Mean F1 score: 0.8081753368699813
+Test set precision: [0.9143518518518519, 0.958904109589041, 0.9396751740139211, 0.8727634194831014, 0.935251798561151]
+Test set mean precision: 0.9241892706998133
+Test set best precision: 0.958904109589041
+Test set recall: [0.7208029197080292, 0.6386861313868614, 0.7390510948905109, 0.801094890510949, 0.7116788321167883]
+Test set mean recall: 0.7222627737226277
+Test set best recall: 0.801094890510949
+Test set F1: [0.8061224489795918, 0.7667031763417306, 0.8273748723186924, 0.8353948620361561, 0.8082901554404145]
+Test set mean F1: 0.8087771030233171
+Test set best F1: 0.8353948620361561
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.86466165 0.93396226 0.88828338 0.90883191 0.96575342]
+Mean precision score: 0.9122985261044638
+Recall scores: [0.80607477 0.69392523 0.76168224 0.7470726  0.66042155]
+Mean recall score: 0.7338352776379435
+F1 scores: [0.83434099 0.79624665 0.82012579 0.82005141 0.78442281]
+Mean F1 score: 0.8110375299664174
+Test set precision: [0.8855421686746988, 0.9331683168316832, 0.9166666666666666, 0.9466019417475728, 0.949748743718593]
+Test set mean precision: 0.9263455675278429
+Test set best precision: 0.949748743718593
+Test set recall: [0.8047445255474452, 0.6879562043795621, 0.7627737226277372, 0.7116788321167883, 0.6897810218978102]
+Test set mean recall: 0.7313868613138687
+Test set best recall: 0.8047445255474452
+Test set F1: [0.8432122370936902, 0.7920168067226891, 0.8326693227091633, 0.8125, 0.7991543340380549]
+Test set mean F1: 0.8159105401127194
+Test set best F1: 0.8432122370936902
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['Weather1', 'Weather2', 'Weather3', 'Ego', 'NonEgo', 'Front', 'Back', 'Opposite', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96393443 0.89880952 0.90350877 0.85869565 0.91176471]
+Mean precision score: 0.9073426160050244
+Recall scores: [0.68691589 0.70560748 0.72196262 0.74004684 0.65339578]
+Mean recall score: 0.7015857208518461
+F1 scores: [0.80218281 0.79057592 0.8025974  0.79496855 0.76125512]
+Mean F1 score: 0.7903159597234077
+Test set precision: [0.9496221662468514, 0.9323671497584541, 0.9107981220657277, 0.9146919431279621, 0.9207920792079208]
+Test set mean precision: 0.9256542920813832
+Test set best precision: 0.9496221662468514
+Test set recall: [0.6879562043795621, 0.7043795620437956, 0.708029197080292, 0.7043795620437956, 0.6788321167883211]
+Test set mean recall: 0.6967153284671532
+Test set best recall: 0.708029197080292
+Test set F1: [0.7978835978835978, 0.8024948024948025, 0.7967145790554415, 0.7958762886597939, 0.7815126050420168]
+Test set mean F1: 0.7948963746271305
+Test set best F1: 0.8024948024948025

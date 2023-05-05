@@ -1,0 +1,15 @@
+Threshold 0.810 for F1:	6
+Threshold 0.900 for F1:	9
+Threshold 0.990 for F1:	9
+
+
+
+Failure Readable mode...
+
+F1 - RS(n=10) - RS(n=1): 679 - 672 
+
+
+
+Hard Flaky LateX mode...
+
+\multirow{2}{*}{CARLA} & \emph{F1}  & 6& 9& 9\\ \hline 

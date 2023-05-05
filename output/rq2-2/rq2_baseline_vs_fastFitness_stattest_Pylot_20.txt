@@ -1,0 +1,2 @@
+Method,Simulations,F1 p-value,F2 p-value,F3 p-value,F4 p-value,F1 A^12,F2 A^12,F3 A^12,F4 A^12
+Baseline-Manual,8278,0.21148488261323095,1.0584080636692443e-09,0.0,1.7763568394002505e-15,0.4628,0.5732,0.5,0.026

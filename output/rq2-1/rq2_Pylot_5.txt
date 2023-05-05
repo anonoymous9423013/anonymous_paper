@@ -1,0 +1,640 @@
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.83544304 0.81521739 0.8        0.80620155 0.82608696]
+Mean precision score: 0.8165897872376734
+Recall scores: [0.59459459 0.67567568 0.89285714 0.92857143 0.85585586]
+Mean recall score: 0.7895109395109394
+F1 scores: [0.69473684 0.73891626 0.84388186 0.86307054 0.84070796]
+Mean F1 score: 0.796262691764768
+Test set precision: [0.7457627118644068, 0.6811594202898551, 0.5975609756097561, 0.5869565217391305, 0.6515151515151515]
+Test set mean precision: 0.65259095620366
+Test set best precision: 0.7457627118644068
+Test set recall: [0.6567164179104478, 0.7014925373134329, 0.7313432835820896, 0.8059701492537313, 0.6417910447761194]
+Test set mean recall: 0.7074626865671643
+Test set best recall: 0.8059701492537313
+Test set F1: [0.6984126984126985, 0.6911764705882354, 0.6577181208053691, 0.679245283018868, 0.6466165413533834]
+Test set mean F1: 0.6746338228357109
+Test set best F1: 0.6984126984126985
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.82716049 0.79807692 0.8        0.80620155 0.83928571]
+Mean precision score: 0.8141449363154789
+Recall scores: [0.6036036  0.74774775 0.89285714 0.92857143 0.84684685]
+Mean recall score: 0.803925353925354
+F1 scores: [0.69791667 0.77209302 0.84388186 0.86307054 0.84304933]
+Mean F1 score: 0.8040022826471824
+Test set precision: [0.7288135593220338, 0.6410256410256411, 0.5975609756097561, 0.5869565217391305, 0.7096774193548387]
+Test set mean precision: 0.6528068234102801
+Test set best precision: 0.7288135593220338
+Test set recall: [0.6417910447761194, 0.746268656716418, 0.7313432835820896, 0.8059701492537313, 0.6567164179104478]
+Test set mean recall: 0.7164179104477613
+Test set best recall: 0.8059701492537313
+Test set F1: [0.6825396825396826, 0.6896551724137931, 0.6577181208053691, 0.679245283018868, 0.682170542635659]
+Test set mean F1: 0.6782657602826744
+Test set best F1: 0.6896551724137931
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.83098592 0.84444444 0.86666667 0.83471074 0.8125    ]
+Mean precision score: 0.8378615540811444
+Recall scores: [0.53153153 0.68468468 0.69642857 0.90178571 0.81981982]
+Mean recall score: 0.7268500643500644
+F1 scores: [0.64835165 0.75621891 0.77227723 0.86695279 0.8161435 ]
+Mean F1 score: 0.7719888138008951
+Test set precision: [0.7735849056603774, 0.6666666666666666, 0.7636363636363637, 0.6329113924050633, 0.6231884057971014]
+Test set mean precision: 0.6919975468331145
+Test set best precision: 0.7735849056603774
+Test set recall: [0.6119402985074627, 0.6268656716417911, 0.6268656716417911, 0.746268656716418, 0.6417910447761194]
+Test set mean recall: 0.6507462686567165
+Test set best recall: 0.746268656716418
+Test set F1: [0.6833333333333333, 0.6461538461538462, 0.6885245901639345, 0.684931506849315, 0.6323529411764706]
+Test set mean F1: 0.6670592435353799
+Test set best F1: 0.6885245901639345
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.83098592 0.84090909 0.86666667 0.82786885 0.85046729]
+Mean precision score: 0.8433795630494716
+Recall scores: [0.53153153 0.66666667 0.69642857 0.90178571 0.81981982]
+Mean recall score: 0.7232464607464608
+F1 scores: [0.64835165 0.74371859 0.77227723 0.86324786 0.83486239]
+Mean F1 score: 0.7724915435216417
+Test set precision: [0.7547169811320755, 0.6666666666666666, 0.7636363636363637, 0.6363636363636364, 0.6567164179104478]
+Test set mean precision: 0.695620013141838
+Test set best precision: 0.7636363636363637
+Test set recall: [0.5970149253731343, 0.6268656716417911, 0.6268656716417911, 0.7313432835820896, 0.6567164179104478]
+Test set mean recall: 0.6477611940298508
+Test set best recall: 0.7313432835820896
+Test set F1: [0.6666666666666666, 0.6461538461538462, 0.6885245901639345, 0.6805555555555556, 0.6567164179104478]
+Test set mean F1: 0.6677234152900902
+Test set best F1: 0.6885245901639345
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.96641791 0.95736434 0.95488722 0.98534799 0.98141264]
+Mean precision score: 0.969086018866267
+Recall scores: [0.81962025 0.78164557 0.80379747 0.85396825 0.83809524]
+Mean recall score: 0.8194253566405465
+F1 scores: [0.8869863  0.86062718 0.87285223 0.91496599 0.90410959]
+Mean F1 score: 0.8879082576365682
+Test set precision: [0.9414225941422594, 0.9563318777292577, 0.9367088607594937, 0.9521739130434783, 0.9449152542372882]
+Test set mean precision: 0.9463104999823555
+Test set best precision: 0.9563318777292577
+Test set recall: [0.800711743772242, 0.7793594306049823, 0.7900355871886121, 0.7793594306049823, 0.7935943060498221]
+Test set mean recall: 0.7886120996441282
+Test set best recall: 0.800711743772242
+Test set F1: [0.8653846153846153, 0.8588235294117647, 0.8571428571428572, 0.8571428571428571, 0.8626692456479691]
+Test set mean F1: 0.8602326209460127
+Test set best F1: 0.8653846153846153
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97014925 0.95       0.95149254 0.98888889 0.98513011]
+Mean precision score: 0.9691321582915657
+Recall scores: [0.82278481 0.78164557 0.80696203 0.84761905 0.84126984]
+Mean recall score: 0.820056258790436
+F1 scores: [0.89041096 0.85763889 0.87328767 0.91282051 0.90753425]
+Mean F1 score: 0.888338455684346
+Test set precision: [0.9411764705882353, 0.948936170212766, 0.9338842975206612, 0.9521739130434783, 0.940677966101695]
+Test set mean precision: 0.9433697634933671
+Test set best precision: 0.9521739130434783
+Test set recall: [0.797153024911032, 0.7935943060498221, 0.8042704626334519, 0.7793594306049823, 0.7900355871886121]
+Test set mean recall: 0.79288256227758
+Test set best recall: 0.8042704626334519
+Test set F1: [0.8631984585741811, 0.8643410852713179, 0.864244741873805, 0.8571428571428571, 0.8588007736943908]
+Test set mean F1: 0.8615455833113103
+Test set best F1: 0.8643410852713179
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97358491 0.95634921 0.95384615 0.98148148 0.94642857]
+Mean precision score: 0.962338063753158
+Recall scores: [0.8164557  0.76265823 0.78481013 0.84126984 0.84126984]
+Mean recall score: 0.8092927466345188
+F1 scores: [0.88812392 0.84859155 0.86111111 0.90598291 0.8907563 ]
+Mean F1 score: 0.8789131586358605
+Test set precision: [0.9487179487179487, 0.9638009049773756, 0.9367088607594937, 0.9598214285714286, 0.8987854251012146]
+Test set mean precision: 0.9415669136254923
+Test set best precision: 0.9638009049773756
+Test set recall: [0.7900355871886121, 0.7580071174377224, 0.7900355871886121, 0.7651245551601423, 0.7900355871886121]
+Test set mean recall: 0.7786476868327402
+Test set best recall: 0.7900355871886121
+Test set F1: [0.8621359223300971, 0.848605577689243, 0.8571428571428572, 0.8514851485148516, 0.8409090909090909]
+Test set mean F1: 0.852055719317228
+Test set best F1: 0.8621359223300971
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97727273 0.95256917 0.94339623 0.98507463 0.94642857]
+Mean precision score: 0.9609482643885077
+Recall scores: [0.8164557  0.76265823 0.79113924 0.83809524 0.84126984]
+Mean recall score: 0.8099236487844083
+F1 scores: [0.88965517 0.84710018 0.8605852  0.90566038 0.8907563 ]
+Mean F1 score: 0.8787514451949624
+Test set precision: [0.9484978540772532, 0.9596412556053812, 0.9291666666666667, 0.9596412556053812, 0.8951612903225806]
+Test set mean precision: 0.9384216644554526
+Test set best precision: 0.9596412556053812
+Test set recall: [0.7864768683274022, 0.7615658362989324, 0.7935943060498221, 0.7615658362989324, 0.7900355871886121]
+Test set mean recall: 0.7786476868327401
+Test set best recall: 0.7935943060498221
+Test set F1: [0.8599221789883268, 0.8492063492063491, 0.8560460652591171, 0.8492063492063491, 0.8393194706994329]
+Test set mean F1: 0.8507400826719149
+Test set best F1: 0.8599221789883268
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.81443299 0.93103448 0.8487395  0.84615385 0.83870968]
+Mean precision score: 0.8558140983641727
+Recall scores: [0.71171171 0.72972973 0.90178571 0.98214286 0.93693694]
+Mean recall score: 0.85246138996139
+F1 scores: [0.75961538 0.81818182 0.87445887 0.90909091 0.88510638]
+Mean F1 score: 0.849290673865142
+Test set precision: [0.6533333333333333, 0.7076923076923077, 0.6625, 0.6309523809523809, 0.7083333333333334]
+Test set mean precision: 0.6725622710622712
+Test set best precision: 0.7083333333333334
+Test set recall: [0.7313432835820896, 0.6865671641791045, 0.7910447761194029, 0.7910447761194029, 0.7611940298507462]
+Test set mean recall: 0.7522388059701491
+Test set best recall: 0.7910447761194029
+Test set F1: [0.6901408450704225, 0.696969696969697, 0.7210884353741497, 0.7019867549668874, 0.7338129496402879]
+Test set mean F1: 0.708799736404289
+Test set best F1: 0.7338129496402879
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.86516854 0.84946237 0.87826087 0.82835821 0.86065574]
+Mean precision score: 0.85638114422852
+Recall scores: [0.69369369 0.71171171 0.90178571 0.99107143 0.94594595]
+Mean recall score: 0.8488416988416988
+F1 scores: [0.77       0.7745098  0.88986784 0.90243902 0.90128755]
+Mean F1 score: 0.8476208446739145
+Test set precision: [0.6986301369863014, 0.7384615384615385, 0.6857142857142857, 0.6419753086419753, 0.782608695652174]
+Test set mean precision: 0.7094779930912549
+Test set best precision: 0.782608695652174
+Test set recall: [0.7611940298507462, 0.7164179104477612, 0.7164179104477612, 0.7761194029850746, 0.8059701492537313]
+Test set mean recall: 0.755223880597015
+Test set best recall: 0.8059701492537313
+Test set F1: [0.7285714285714286, 0.7272727272727273, 0.7007299270072992, 0.7027027027027027, 0.7941176470588236]
+Test set mean F1: 0.7306788865225963
+Test set best F1: 0.7941176470588236
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.83908046 0.91139241 0.8362069  0.83076923 0.825     ]
+Mean precision score: 0.8484897984308721
+Recall scores: [0.65765766 0.64864865 0.86607143 0.96428571 0.89189189]
+Mean recall score: 0.8057110682110682
+F1 scores: [0.73737374 0.75789474 0.85087719 0.89256198 0.85714286]
+Mean F1 score: 0.819170101562446
+Test set precision: [0.6923076923076923, 0.7241379310344828, 0.7083333333333334, 0.6578947368421053, 0.6666666666666666]
+Test set mean precision: 0.6898680720368561
+Test set best precision: 0.7241379310344828
+Test set recall: [0.6716417910447762, 0.6268656716417911, 0.7611940298507462, 0.746268656716418, 0.7761194029850746]
+Test set mean recall: 0.7164179104477613
+Test set best recall: 0.7761194029850746
+Test set F1: [0.6818181818181818, 0.672, 0.7338129496402879, 0.6993006993006994, 0.7172413793103448]
+Test set mean F1: 0.7008346420139028
+Test set best F1: 0.7338129496402879
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.81318681 0.84       0.86206897 0.81818182 0.81512605]
+Mean precision score: 0.8297127294612082
+Recall scores: [0.66666667 0.75675676 0.89285714 0.96428571 0.87387387]
+Mean recall score: 0.8308880308880309
+F1 scores: [0.73267327 0.79620853 0.87719298 0.8852459  0.84347826]
+Mean F1 score: 0.826959788619494
+Test set precision: [0.6617647058823529, 0.6714285714285714, 0.6619718309859155, 0.6410256410256411, 0.647887323943662]
+Test set mean precision: 0.6568156146532286
+Test set best precision: 0.6714285714285714
+Test set recall: [0.6716417910447762, 0.7014925373134329, 0.7014925373134329, 0.746268656716418, 0.6865671641791045]
+Test set mean recall: 0.7014925373134329
+Test set best recall: 0.746268656716418
+Test set F1: [0.6666666666666667, 0.6861313868613139, 0.6811594202898551, 0.6896551724137931, 0.6666666666666667]
+Test set mean F1: 0.6780558625796591
+Test set best F1: 0.6896551724137931
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.95759717 0.93862816 0.95729537 0.96969697 0.9760274 ]
+Mean precision score: 0.9598490145224732
+Recall scores: [0.85759494 0.82278481 0.85126582 0.91428571 0.9047619 ]
+Mean recall score: 0.8701386377335745
+F1 scores: [0.9048414  0.87689713 0.90117253 0.94117647 0.93904448]
+Mean F1 score: 0.9126264033027948
+Test set precision: [0.9196787148594378, 0.9271255060728745, 0.9193548387096774, 0.9354838709677419, 0.9271255060728745]
+Test set mean precision: 0.9257536873365211
+Test set best precision: 0.9354838709677419
+Test set recall: [0.8149466192170819, 0.8149466192170819, 0.8113879003558719, 0.8256227758007118, 0.8149466192170819]
+Test set mean recall: 0.8163701067615659
+Test set best recall: 0.8256227758007118
+Test set F1: [0.8641509433962263, 0.8674242424242423, 0.8620037807183365, 0.8771266540642721, 0.8674242424242423]
+Test set mean F1: 0.867625972605464
+Test set best F1: 0.8771266540642721
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.95070423 0.93939394 0.95306859 0.98596491 0.96864111]
+Mean precision score: 0.9595545568134188
+Recall scores: [0.85443038 0.78481013 0.83544304 0.89206349 0.88253968]
+Mean recall score: 0.8498573437813943
+F1 scores: [0.9        0.85517241 0.89038786 0.93666667 0.92358804]
+Mean F1 score: 0.901162995734853
+Test set precision: [0.916, 0.9421487603305785, 0.9390243902439024, 0.9495798319327731, 0.9385245901639344]
+Test set mean precision: 0.9370555145342377
+Test set best precision: 0.9495798319327731
+Test set recall: [0.8149466192170819, 0.8113879003558719, 0.8220640569395018, 0.8042704626334519, 0.8149466192170819]
+Test set mean recall: 0.8135231316725978
+Test set best recall: 0.8220640569395018
+Test set F1: [0.8625235404896422, 0.8718929254302104, 0.8766603415559773, 0.8709055876685934, 0.8723809523809524]
+Test set mean F1: 0.8708726695050751
+Test set best F1: 0.8766603415559773
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.94680851 0.93560606 0.9379562  0.9787234  0.97163121]
+Mean precision score: 0.9541450771105996
+Recall scores: [0.84493671 0.78164557 0.81329114 0.87619048 0.86984127]
+Mean recall score: 0.837181032750653
+F1 scores: [0.89297659 0.85172414 0.87118644 0.92462312 0.91792295]
+Mean F1 score: 0.8916866461778709
+Test set precision: [0.92, 0.9233870967741935, 0.9311740890688259, 0.9382716049382716, 0.934156378600823]
+Test set mean precision: 0.9293978338764228
+Test set best precision: 0.9382716049382716
+Test set recall: [0.8185053380782918, 0.8149466192170819, 0.8185053380782918, 0.8113879003558719, 0.8078291814946619]
+Test set mean recall: 0.8142348754448399
+Test set best recall: 0.8185053380782918
+Test set F1: [0.8662900188323917, 0.8657844990548204, 0.8712121212121213, 0.8702290076335878, 0.8664122137404581]
+Test set mean F1: 0.8679855720946759
+Test set best F1: 0.8712121212121213
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.92882562 0.93632959 0.95522388 0.95547945 0.98207885]
+Mean precision score: 0.9515874792978373
+Recall scores: [0.82594937 0.79113924 0.81012658 0.88571429 0.86984127]
+Mean recall score: 0.8365541490857946
+F1 scores: [0.87437186 0.85763293 0.87671233 0.91927512 0.92255892]
+Mean F1 score: 0.8901102334571286
+Test set precision: [0.908, 0.9190283400809717, 0.9259259259259259, 0.934156378600823, 0.9116465863453815]
+Test set mean precision: 0.9197514461906204
+Test set best precision: 0.934156378600823
+Test set recall: [0.8078291814946619, 0.8078291814946619, 0.800711743772242, 0.8078291814946619, 0.8078291814946619]
+Test set mean recall: 0.8064056939501778
+Test set best recall: 0.8078291814946619
+Test set F1: [0.8549905838041432, 0.8598484848484848, 0.8587786259541985, 0.8664122137404581, 0.8566037735849056]
+Test set mean F1: 0.8593267363864381
+Test set best F1: 0.8664122137404581
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.74336283 0.73913043 0.74603175 0.73529412 0.7398374 ]
+Mean precision score: 0.7407313057387609
+Recall scores: [0.75675676 0.76576577 0.83928571 0.89285714 0.81981982]
+Mean recall score: 0.8148970398970399
+F1 scores: [0.75       0.75221239 0.78991597 0.80645161 0.77777778]
+Mean F1 score: 0.7752715492896178
+Test set precision: [0.5697674418604651, 0.5340909090909091, 0.5681818181818182, 0.5555555555555556, 0.5280898876404494]
+Test set mean precision: 0.5511371224658396
+Test set best precision: 0.5697674418604651
+Test set recall: [0.7313432835820896, 0.7014925373134329, 0.746268656716418, 0.746268656716418, 0.7014925373134329]
+Test set mean recall: 0.7253731343283583
+Test set best recall: 0.746268656716418
+Test set F1: [0.6405228758169935, 0.6064516129032257, 0.6451612903225807, 0.6369426751592356, 0.6025641025641025]
+Test set mean F1: 0.6263285113532276
+Test set best F1: 0.6451612903225807
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.76415094 0.76785714 0.80165289 0.74074074 0.76422764]
+Mean precision score: 0.7677258723665032
+Recall scores: [0.72972973 0.77477477 0.86607143 0.89285714 0.84684685]
+Mean recall score: 0.8220559845559846
+F1 scores: [0.74654378 0.77130045 0.83261803 0.8097166  0.8034188 ]
+Mean F1 score: 0.7927195311184992
+Test set precision: [0.5952380952380952, 0.6136363636363636, 0.6111111111111112, 0.625, 0.6071428571428571]
+Test set mean precision: 0.6104256854256854
+Test set best precision: 0.625
+Test set recall: [0.746268656716418, 0.8059701492537313, 0.8208955223880597, 0.8208955223880597, 0.7611940298507462]
+Test set mean recall: 0.791044776119403
+Test set best recall: 0.8208955223880597
+Test set F1: [0.662251655629139, 0.6967741935483871, 0.7006369426751594, 0.7096774193548387, 0.6754966887417219]
+Test set mean F1: 0.6889673799898491
+Test set best F1: 0.7096774193548387
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.69607843 0.72727273 0.72815534 0.81415929 0.70535714]
+Mean precision score: 0.7342045866687286
+Recall scores: [0.63963964 0.64864865 0.66964286 0.82142857 0.71171171]
+Mean recall score: 0.6982142857142857
+F1 scores: [0.66666667 0.68571429 0.69767442 0.81777778 0.70852018]
+Mean F1 score: 0.7152706656271157
+Test set precision: [0.5, 0.527027027027027, 0.4935064935064935, 0.5, 0.4875]
+Test set mean precision: 0.501606704106704
+Test set best precision: 0.527027027027027
+Test set recall: [0.6119402985074627, 0.582089552238806, 0.5671641791044776, 0.6268656716417911, 0.582089552238806]
+Test set mean recall: 0.5940298507462687
+Test set best recall: 0.6268656716417911
+Test set F1: [0.5503355704697986, 0.5531914893617023, 0.5277777777777777, 0.5562913907284769, 0.5306122448979592]
+Test set mean F1: 0.543641694647143
+Test set best F1: 0.5562913907284769
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.73958333 0.78723404 0.79279279 0.79831933 0.75      ]
+Mean precision score: 0.773585899282082
+Recall scores: [0.63963964 0.66666667 0.78571429 0.84821429 0.78378378]
+Mean recall score: 0.7448037323037322
+F1 scores: [0.68599034 0.72195122 0.78923767 0.82251082 0.76651982]
+Mean F1 score: 0.75724197442745
+Test set precision: [0.6075949367088608, 0.5555555555555556, 0.5733333333333334, 0.5584415584415584, 0.5405405405405406]
+Test set mean precision: 0.5670931849159697
+Test set best precision: 0.6075949367088608
+Test set recall: [0.7164179104477612, 0.5970149253731343, 0.6417910447761194, 0.6417910447761194, 0.5970149253731343]
+Test set mean recall: 0.6388059701492537
+Test set best recall: 0.7164179104477612
+Test set F1: [0.6575342465753424, 0.5755395683453237, 0.6056338028169014, 0.5972222222222222, 0.5673758865248227]
+Test set mean F1: 0.6006611452969225
+Test set best F1: 0.6575342465753424
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.84591195 0.87375415 0.86666667 0.8490566  0.86144578]
+Mean precision score: 0.8593670312164473
+Recall scores: [0.85126582 0.83227848 0.82278481 0.85714286 0.90793651]
+Mean recall score: 0.8542816958006831
+F1 scores: [0.84858044 0.85251216 0.84415584 0.85308057 0.88408037]
+Mean F1 score: 0.8564818762101973
+Test set precision: [0.8107142857142857, 0.7849462365591398, 0.7928571428571428, 0.7876712328767124, 0.7874564459930313]
+Test set mean precision: 0.7927290688000624
+Test set best precision: 0.8107142857142857
+Test set recall: [0.8078291814946619, 0.7793594306049823, 0.7900355871886121, 0.8185053380782918, 0.8042704626334519]
+Test set mean recall: 0.7999999999999999
+Test set best recall: 0.8185053380782918
+Test set F1: [0.8092691622103387, 0.7821428571428571, 0.7914438502673796, 0.8027923211169284, 0.7957746478873239]
+Test set mean F1: 0.7962845677249656
+Test set best F1: 0.8092691622103387
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.85993485 0.89333333 0.89527027 0.871875   0.88854489]
+Mean precision score: 0.8817916697329331
+Recall scores: [0.83544304 0.84810127 0.83860759 0.88571429 0.91111111]
+Mean recall score: 0.8637954591119149
+F1 scores: [0.84751204 0.87012987 0.86601307 0.87874016 0.89968652]
+Mean F1 score: 0.8724163316810121
+Test set precision: [0.8571428571428571, 0.8214285714285714, 0.8231046931407943, 0.8222996515679443, 0.8368794326241135]
+Test set mean precision: 0.832171041180856
+Test set best precision: 0.8571428571428571
+Test set recall: [0.8327402135231317, 0.8185053380782918, 0.8113879003558719, 0.8398576512455516, 0.8398576512455516]
+Test set mean recall: 0.8284697508896798
+Test set best recall: 0.8398576512455516
+Test set F1: [0.8447653429602888, 0.8199643493761141, 0.8172043010752688, 0.8309859154929577, 0.8383658969804617]
+Test set mean F1: 0.8302571611770183
+Test set best F1: 0.8447653429602888
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.77854671 0.83455882 0.76449275 0.83211679 0.83617747]
+Mean precision score: 0.8091785105358534
+Recall scores: [0.71202532 0.71835443 0.66772152 0.72380952 0.77777778]
+Mean recall score: 0.7199377134820173
+F1 scores: [0.74380165 0.77210884 0.71283784 0.77419355 0.80592105]
+Mean F1 score: 0.7617725870572981
+Test set precision: [0.7230769230769231, 0.7327935222672065, 0.7203389830508474, 0.7372881355932204, 0.7459016393442623]
+Test set mean precision: 0.7318798406664919
+Test set best precision: 0.7459016393442623
+Test set recall: [0.6690391459074733, 0.6441281138790036, 0.604982206405694, 0.6192170818505338, 0.6476868327402135]
+Test set mean recall: 0.6370106761565836
+Test set best recall: 0.6690391459074733
+Test set F1: [0.6950092421441775, 0.6856060606060607, 0.6576402321083172, 0.6731141199226306, 0.6933333333333335]
+Test set mean F1: 0.6809405976229038
+Test set best F1: 0.6950092421441775
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.80898876 0.83882784 0.77617329 0.81468531 0.82550336]
+Mean precision score: 0.8128357116922702
+Recall scores: [0.6835443  0.72468354 0.68037975 0.73968254 0.78095238]
+Mean recall score: 0.7218485031143259
+F1 scores: [0.74099485 0.77758913 0.72512648 0.77537438 0.80261011]
+Mean F1 score: 0.7643389908217056
+Test set precision: [0.7090163934426229, 0.7385892116182573, 0.7276595744680852, 0.7291666666666666, 0.7219917012448133]
+Test set mean precision: 0.7252847094880891
+Test set best precision: 0.7385892116182573
+Test set recall: [0.6156583629893239, 0.6334519572953736, 0.608540925266904, 0.6227758007117438, 0.6192170818505338]
+Test set mean recall: 0.6199288256227758
+Test set best recall: 0.6334519572953736
+Test set F1: [0.6590476190476191, 0.6819923371647509, 0.6627906976744186, 0.6717850287907869, 0.6666666666666666]
+Test set mean F1: 0.6684564698688484
+Test set best F1: 0.6819923371647509
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.8018018  0.82075472 0.84496124 0.85271318 0.84552846]
+Mean precision score: 0.8331518785344276
+Recall scores: [0.8018018  0.78378378 0.97321429 0.98214286 0.93693694]
+Mean recall score: 0.8955759330759332
+F1 scores: [0.8018018  0.80184332 0.90456432 0.91286307 0.88888889]
+Mean F1 score: 0.8619922789110314
+Test set precision: [0.6, 0.6052631578947368, 0.6265060240963856, 0.5974025974025974, 0.6438356164383562]
+Test set mean precision: 0.6146014791664152
+Test set best precision: 0.6438356164383562
+Test set recall: [0.7164179104477612, 0.6865671641791045, 0.7761194029850746, 0.6865671641791045, 0.7014925373134329]
+Test set mean recall: 0.7134328358208956
+Test set best recall: 0.7761194029850746
+Test set F1: [0.6530612244897959, 0.6433566433566432, 0.6933333333333334, 0.638888888888889, 0.6714285714285715]
+Test set mean F1: 0.6600137322994465
+Test set best F1: 0.6933333333333334
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.81914894 0.80909091 0.81102362 0.80597015 0.87931034]
+Mean precision score: 0.8249087922779367
+Recall scores: [0.69369369 0.8018018  0.91964286 0.96428571 0.91891892]
+Mean recall score: 0.8596685971685971
+F1 scores: [0.75121951 0.80542986 0.86192469 0.87804878 0.89867841]
+Mean F1 score: 0.8390602514451411
+Test set precision: [0.7101449275362319, 0.6219512195121951, 0.6190476190476191, 0.6944444444444444, 0.625]
+Test set mean precision: 0.6541176421080982
+Test set best precision: 0.7101449275362319
+Test set recall: [0.7313432835820896, 0.7611940298507462, 0.7761194029850746, 0.746268656716418, 0.746268656716418]
+Test set mean recall: 0.7522388059701492
+Test set best recall: 0.7761194029850746
+Test set F1: [0.7205882352941175, 0.6845637583892618, 0.6887417218543046, 0.7194244604316546, 0.6802721088435375]
+Test set mean F1: 0.6987180569625752
+Test set best F1: 0.7205882352941175
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.76237624 0.73076923 0.74647887 0.8487395  0.72661871]
+Mean precision score: 0.762996508493344
+Recall scores: [0.69369369 0.68468468 0.94642857 0.90178571 0.90990991]
+Mean recall score: 0.8273005148005149
+F1 scores: [0.72641509 0.70697674 0.83464567 0.87445887 0.808     ]
+Mean F1 score: 0.7900992764551764
+Test set precision: [0.5362318840579711, 0.5352112676056338, 0.5180722891566265, 0.59375, 0.4942528735632184]
+Test set mean precision: 0.53550366287669
+Test set best precision: 0.59375
+Test set recall: [0.5522388059701493, 0.5671641791044776, 0.6417910447761194, 0.5671641791044776, 0.6417910447761194]
+Test set mean recall: 0.5940298507462686
+Test set best recall: 0.6417910447761194
+Test set F1: [0.5441176470588235, 0.5507246376811593, 0.5733333333333333, 0.5801526717557253, 0.5584415584415584]
+Test set mean F1: 0.56135396965412
+Test set best F1: 0.5801526717557253
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.79069767 0.77173913 0.82758621 0.7734375  0.73381295]
+Mean precision score: 0.7794546922780453
+Recall scores: [0.61261261 0.63963964 0.85714286 0.88392857 0.91891892]
+Mean recall score: 0.78244851994852
+F1 scores: [0.69035533 0.69950739 0.84210526 0.825      0.816     ]
+Mean F1 score: 0.774593596453939
+Test set precision: [0.6166666666666667, 0.6515151515151515, 0.6216216216216216, 0.5384615384615384, 0.5306122448979592]
+Test set mean precision: 0.5917754446325875
+Test set best precision: 0.6515151515151515
+Test set recall: [0.5522388059701493, 0.6417910447761194, 0.6865671641791045, 0.6268656716417911, 0.7761194029850746]
+Test set mean recall: 0.6567164179104478
+Test set best recall: 0.7761194029850746
+Test set F1: [0.5826771653543308, 0.6466165413533834, 0.652482269503546, 0.5793103448275863, 0.6303030303030303]
+Test set mean F1: 0.6182778702683754
+Test set best F1: 0.652482269503546
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97727273 0.98       0.98101266 0.99050633 0.97222222]
+Mean precision score: 0.9802027873673443
+Recall scores: [0.95253165 0.93037975 0.98101266 0.99365079 1.        ]
+Mean recall score: 0.9715149688567409
+F1 scores: [0.96474359 0.95454545 0.98101266 0.99207607 0.98591549]
+Mean F1 score: 0.975658653041045
+Test set precision: [0.9769230769230769, 0.9529411764705882, 0.9811320754716981, 0.985239852398524, 0.9416058394160584]
+Test set mean precision: 0.9675684041359892
+Test set best precision: 0.985239852398524
+Test set recall: [0.9039145907473309, 0.8647686832740213, 0.9252669039145908, 0.9501779359430605, 0.9181494661921709]
+Test set mean recall: 0.9124555160142348
+Test set best recall: 0.9501779359430605
+Test set F1: [0.9390018484288354, 0.9067164179104477, 0.9523809523809524, 0.967391304347826, 0.9297297297297298]
+Test set mean F1: 0.9390440505595583
+Test set best F1: 0.967391304347826
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.95583596 0.95859873 0.96732026 0.9873817  0.98119122]
+Mean precision score: 0.9700655751476466
+Recall scores: [0.95886076 0.95253165 0.93670886 0.99365079 0.99365079]
+Mean recall score: 0.9670805706248744
+F1 scores: [0.95734597 0.95555556 0.95176849 0.99050633 0.9873817 ]
+Mean F1 score: 0.9685116096898945
+Test set precision: [0.9321428571428572, 0.9197080291970803, 0.9487179487179487, 0.9485294117647058, 0.9774436090225563]
+Test set mean precision: 0.9453083711690295
+Test set best precision: 0.9774436090225563
+Test set recall: [0.9288256227758007, 0.896797153024911, 0.9217081850533808, 0.9181494661921709, 0.9252669039145908]
+Test set mean recall: 0.9181494661921707
+Test set best recall: 0.9288256227758007
+Test set F1: [0.9304812834224598, 0.9081081081081082, 0.9350180505415162, 0.9330922242314647, 0.9506398537477148]
+Test set mean F1: 0.9314679040102527
+Test set best F1: 0.9506398537477148
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.93081761 0.96180556 0.93968254 0.95679012 0.9601227 ]
+Mean precision score: 0.9498437056288562
+Recall scores: [0.93670886 0.87658228 0.93670886 0.98412698 0.99365079]
+Mean recall score: 0.9455555555555556
+F1 scores: [0.93375394 0.91721854 0.93819334 0.97026604 0.97659906]
+Mean F1 score: 0.9472061869627462
+Test set precision: [0.9227941176470589, 0.9357429718875502, 0.9536679536679536, 0.9049295774647887, 0.9157894736842105]
+Test set mean precision: 0.9265848188703124
+Test set best precision: 0.9536679536679536
+Test set recall: [0.8932384341637011, 0.8291814946619217, 0.8790035587188612, 0.9145907473309609, 0.9288256227758007]
+Test set mean recall: 0.888967971530249
+Test set best recall: 0.9288256227758007
+Test set F1: [0.9077757685352622, 0.879245283018868, 0.9148148148148147, 0.9097345132743363, 0.9222614840989399]
+Test set mean F1: 0.9067663727484442
+Test set best F1: 0.9222614840989399
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['RoadType', 'RoadID', 'ScenarioLength', 'VehicleFront', 'VehicleAdjacent', 'VehicleOpposite', 'VehicleFrontTwoWheeled', 'VehicleAdjacentTwoWheeled', 'VehicleOppositeTwoWheeled', 'TimeOfDay', 'Weather', 'NumberOfPeople', 'TargetSpeed', 'Trees', 'Buildings', 'Task', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.9335443  0.91401274 0.94788274 0.96273292 0.96238245]
+Mean precision score: 0.9441110286406096
+Recall scores: [0.9335443  0.90822785 0.92088608 0.98412698 0.97460317]
+Mean recall score: 0.944277677315652
+F1 scores: [0.9335443  0.91111111 0.93418941 0.9733124  0.96845426]
+Mean F1 score: 0.9441222963134015
+Test set precision: [0.8970588235294118, 0.8981818181818182, 0.8768115942028986, 0.9263565891472868, 0.8901098901098901]
+Test set mean precision: 0.897703743034261
+Test set best precision: 0.9263565891472868
+Test set recall: [0.8683274021352313, 0.8790035587188612, 0.8612099644128114, 0.8505338078291815, 0.8647686832740213]
+Test set mean recall: 0.8647686832740213
+Test set best recall: 0.8790035587188612
+Test set F1: [0.8824593128390597, 0.8884892086330934, 0.8689407540394973, 0.8868274582560297, 0.8772563176895307]
+Test set mean F1: 0.8807946102914421
+Test set best F1: 0.8884892086330934

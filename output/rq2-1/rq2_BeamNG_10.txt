@@ -1,0 +1,640 @@
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94871795 0.94915254 0.99082569 0.96581197 0.99082569]
+Mean precision score: 0.969066766609917
+Recall scores: [0.94067797 0.95726496 0.92307692 0.95762712 0.91525424]
+Mean recall score: 0.9387802404751557
+F1 scores: [0.94468085 0.95319149 0.95575221 0.96170213 0.95154185]
+Mean F1 score: 0.9533737061389502
+Test set precision: [1.0, 0.9850746268656716, 1.0, 1.0, 0.9922480620155039]
+Test set mean precision: 0.995464537776235
+Test set best precision: 1.0
+Test set recall: [0.9219858156028369, 0.9361702127659575, 0.9432624113475178, 0.9361702127659575, 0.9078014184397163]
+Test set mean recall: 0.9290780141843971
+Test set best recall: 0.9432624113475178
+Test set F1: [0.959409594095941, 0.96, 0.9708029197080292, 0.967032967032967, 0.9481481481481482]
+Test set mean F1: 0.961078725797017
+Test set best F1: 0.9708029197080292
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94871795 0.94915254 0.99082569 0.96610169 0.99065421]
+Mean precision score: 0.9690904159373911
+Recall scores: [0.94067797 0.95726496 0.92307692 0.96610169 0.89830508]
+Mean recall score: 0.9370853252209186
+F1 scores: [0.94468085 0.95319149 0.95575221 0.96610169 0.94222222]
+Mean F1 score: 0.9523896939904779
+Test set precision: [1.0, 0.9850746268656716, 1.0, 1.0, 0.9921875]
+Test set mean precision: 0.9954524253731343
+Test set best precision: 1.0
+Test set recall: [0.9219858156028369, 0.9361702127659575, 0.9432624113475178, 0.9290780141843972, 0.900709219858156]
+Test set mean recall: 0.926241134751773
+Test set best recall: 0.9432624113475178
+Test set F1: [0.959409594095941, 0.96, 0.9708029197080292, 0.963235294117647, 0.9442379182156133]
+Test set mean F1: 0.9595371452274459
+Test set best F1: 0.9708029197080292
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94871795 0.94915254 0.99082569 0.96581197 0.99065421]
+Mean precision score: 0.9690324701167334
+Recall scores: [0.94067797 0.95726496 0.92307692 0.95762712 0.89830508]
+Mean recall score: 0.9353904099666812
+F1 scores: [0.94468085 0.95319149 0.95575221 0.96170213 0.94222222]
+Mean F1 score: 0.9515097805393419
+Test set precision: [1.0, 0.9850746268656716, 1.0, 1.0, 0.9921875]
+Test set mean precision: 0.9954524253731343
+Test set best precision: 1.0
+Test set recall: [0.9219858156028369, 0.9361702127659575, 0.9432624113475178, 0.9361702127659575, 0.900709219858156]
+Test set mean recall: 0.9276595744680851
+Test set best recall: 0.9432624113475178
+Test set F1: [0.959409594095941, 0.96, 0.9708029197080292, 0.967032967032967, 0.9442379182156133]
+Test set mean F1: 0.96029667981051
+Test set best F1: 0.9708029197080292
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94871795 0.94915254 0.99074074 0.96610169 0.99065421]
+Mean precision score: 0.9690734264708605
+Recall scores: [0.94067797 0.95726496 0.91452991 0.96610169 0.89830508]
+Mean recall score: 0.9353759235115169
+F1 scores: [0.94468085 0.95319149 0.95111111 0.96610169 0.94222222]
+Mean F1 score: 0.9514614737348239
+Test set precision: [1.0, 0.9850746268656716, 1.0, 1.0, 0.9921875]
+Test set mean precision: 0.9954524253731343
+Test set best precision: 1.0
+Test set recall: [0.9219858156028369, 0.9361702127659575, 0.950354609929078, 0.9290780141843972, 0.900709219858156]
+Test set mean recall: 0.9276595744680851
+Test set best recall: 0.950354609929078
+Test set F1: [0.959409594095941, 0.96, 0.9745454545454546, 0.963235294117647, 0.9442379182156133]
+Test set mean F1: 0.9602856521949311
+Test set best F1: 0.9745454545454546
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [1.         1.         0.99707602 0.99854862 0.99430199]
+Mean precision score: 0.9979853277767876
+Recall scores: [0.95336077 0.95198903 0.93681319 0.94505495 0.95879121]
+Mean recall score: 0.9492018269796049
+F1 scores: [0.9761236  0.97540408 0.96600567 0.97106563 0.97622378]
+Mean F1 score: 0.9729645489927716
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9568034557235421, 0.9611231101511879, 0.9568034557235421, 0.9568034557235421, 0.9611231101511879]
+Test set mean recall: 0.9585313174946005
+Test set best recall: 0.9611231101511879
+Test set F1: [0.977924944812362, 0.9801762114537445, 0.977924944812362, 0.977924944812362, 0.9801762114537445]
+Test set mean F1: 0.978825451468915
+Test set best F1: 0.9801762114537445
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [1.         1.         0.99707602 0.99854862 0.99430199]
+Mean precision score: 0.9979853277767876
+Recall scores: [0.95336077 0.95198903 0.93681319 0.94505495 0.95879121]
+Mean recall score: 0.9492018269796049
+F1 scores: [0.9761236  0.97540408 0.96600567 0.97106563 0.97622378]
+Mean F1 score: 0.9729645489927716
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9568034557235421, 0.9611231101511879, 0.9568034557235421, 0.9568034557235421, 0.9611231101511879]
+Test set mean recall: 0.9585313174946005
+Test set best recall: 0.9611231101511879
+Test set F1: [0.977924944812362, 0.9801762114537445, 0.977924944812362, 0.977924944812362, 0.9801762114537445]
+Test set mean F1: 0.978825451468915
+Test set best F1: 0.9801762114537445
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [1.         1.         0.99707174 0.99854862 0.99430199]
+Mean precision score: 0.9979844715610898
+Recall scores: [0.95336077 0.95198903 0.93543956 0.94505495 0.95879121]
+Mean recall score: 0.9489271017048795
+F1 scores: [0.9761236  0.97540408 0.96527286 0.97106563 0.97622378]
+Mean F1 score: 0.9728179870743766
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9568034557235421, 0.9568034557235421, 0.9611231101511879, 0.9568034557235421, 0.9611231101511879]
+Test set mean recall: 0.9585313174946005
+Test set best recall: 0.9611231101511879
+Test set F1: [0.977924944812362, 0.977924944812362, 0.9801762114537445, 0.977924944812362, 0.9801762114537445]
+Test set mean F1: 0.978825451468915
+Test set best F1: 0.9801762114537445
+************************* With all the features  *************************
+Approach: Decision Tree
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [1.         1.         0.99707602 0.99854862 0.99430199]
+Mean precision score: 0.9979853277767876
+Recall scores: [0.95336077 0.95198903 0.93681319 0.94505495 0.95879121]
+Mean recall score: 0.9492018269796049
+F1 scores: [0.9761236  0.97540408 0.96600567 0.97106563 0.97622378]
+Mean F1 score: 0.9729645489927716
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9568034557235421, 0.9611231101511879, 0.9568034557235421, 0.9568034557235421, 0.9611231101511879]
+Test set mean recall: 0.9585313174946005
+Test set best recall: 0.9611231101511879
+Test set F1: [0.977924944812362, 0.9801762114537445, 0.977924944812362, 0.977924944812362, 0.9801762114537445]
+Test set mean F1: 0.978825451468915
+Test set best F1: 0.9801762114537445
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.95762712 0.95762712 1.         0.96551724 0.99107143]
+Mean precision score: 0.974368581447775
+Recall scores: [0.95762712 0.96581197 0.92307692 0.94915254 0.94067797]
+Mean recall score: 0.9472693032015066
+F1 scores: [0.95762712 0.96170213 0.96       0.95726496 0.96521739]
+Mean F1 score: 0.9603623189745895
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9432624113475178, 0.950354609929078, 0.950354609929078, 0.950354609929078, 0.9432624113475178]
+Test set mean recall: 0.9475177304964539
+Test set best recall: 0.950354609929078
+Test set F1: [0.9708029197080292, 0.9745454545454546, 0.9745454545454546, 0.9745454545454546, 0.9708029197080292]
+Test set mean F1: 0.9730484406104845
+Test set best F1: 0.9745454545454546
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.95689655 0.95762712 0.99082569 0.96551724 0.99099099]
+Mean precision score: 0.9723715181623802
+Recall scores: [0.94067797 0.96581197 0.92307692 0.94915254 0.93220339]
+Mean recall score: 0.9421845574387948
+F1 scores: [0.94871795 0.96170213 0.95575221 0.95726496 0.96069869]
+Mean F1 score: 0.9568271871976386
+Test set precision: [1.0, 0.9924812030075187, 1.0, 1.0, 1.0]
+Test set mean precision: 0.9984962406015038
+Test set best precision: 1.0
+Test set recall: [0.9290780141843972, 0.9361702127659575, 0.9361702127659575, 0.9361702127659575, 0.9361702127659575]
+Test set mean recall: 0.9347517730496454
+Test set best recall: 0.9361702127659575
+Test set F1: [0.963235294117647, 0.9635036496350365, 0.967032967032967, 0.967032967032967, 0.967032967032967]
+Test set mean F1: 0.9655675689703169
+Test set best F1: 0.967032967032967
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.96521739 0.96581197 0.99082569 0.96581197 0.99115044]
+Mean precision score: 0.97576349069591
+Recall scores: [0.94067797 0.96581197 0.92307692 0.95762712 0.94915254]
+Mean recall score: 0.9472693032015066
+F1 scores: [0.9527897  0.96581197 0.95575221 0.96170213 0.96969697]
+Mean F1 score: 0.9611505950257412
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9361702127659575, 0.950354609929078, 0.9432624113475178, 0.950354609929078, 0.9361702127659575]
+Test set mean recall: 0.9432624113475179
+Test set best recall: 0.950354609929078
+Test set F1: [0.967032967032967, 0.9745454545454546, 0.9708029197080292, 0.9745454545454546, 0.967032967032967]
+Test set mean F1: 0.9707919525729745
+Test set best F1: 0.9745454545454546
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94915254 0.95762712 1.         0.99122807 0.99107143]
+Mean precision score: 0.9778158319527632
+Recall scores: [0.94915254 0.96581197 0.92307692 0.95762712 0.94067797]
+Mean recall score: 0.9472693032015066
+F1 scores: [0.94915254 0.96170213 0.96       0.97413793 0.96521739]
+Mean F1 score: 0.9620419984742572
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.950354609929078, 0.950354609929078, 0.9432624113475178, 0.9432624113475178, 0.9361702127659575]
+Test set mean recall: 0.9446808510638298
+Test set best recall: 0.950354609929078
+Test set F1: [0.9745454545454546, 0.9745454545454546, 0.9708029197080292, 0.9708029197080292, 0.967032967032967]
+Test set mean F1: 0.9715459431079869
+Test set best F1: 0.9745454545454546
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.99292786 0.99857752 0.99709302 0.99855908 0.99293785]
+Mean precision score: 0.9960190686562529
+Recall scores: [0.96296296 0.96296296 0.94230769 0.95192308 0.96565934]
+Mean recall score: 0.957163207163207
+F1 scores: [0.97771588 0.98044693 0.96892655 0.97468354 0.97910864]
+Mean F1 score: 0.9761763075770469
+Test set precision: [0.9988864142538976, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 0.9997772828507795
+Test set best precision: 1.0
+Test set recall: [0.968682505399568, 0.9719222462203023, 0.9632829373650108, 0.9611231101511879, 0.9654427645788337]
+Test set mean recall: 0.9660907127429805
+Test set best recall: 0.9719222462203023
+Test set F1: [0.9835526315789475, 0.9857612267250822, 0.9812981298129813, 0.9801762114537445, 0.9824175824175825]
+Test set mean F1: 0.9826411563976676
+Test set best F1: 0.9857612267250822
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.99714693 1.         0.98866856 0.99573864 0.99291785]
+Mean precision score: 0.99489439431657
+Recall scores: [0.95884774 0.95336077 0.95879121 0.96291209 0.96291209]
+Mean recall score: 0.9593647778832965
+F1 scores: [0.97762238 0.9761236  0.9735007  0.97905028 0.9776848 ]
+Mean F1 score: 0.9767963495152309
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.9600431965442765, 0.9600431965442765, 0.968682505399568, 0.9730021598272138, 0.9611231101511879]
+Test set mean recall: 0.9645788336933044
+Test set best recall: 0.9730021598272138
+Test set F1: [0.9796143250688705, 0.9796143250688705, 0.984092155787164, 0.9863163656267104, 0.9801762114537445]
+Test set mean F1: 0.981962676601072
+Test set best F1: 0.9863163656267104
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.99437412 0.99856322 0.99425287 0.99714286 0.99573257]
+Mean precision score: 0.9960131289466446
+Recall scores: [0.96982167 0.95336077 0.95054945 0.95879121 0.96153846]
+Mean recall score: 0.9588123125160163
+F1 scores: [0.98194444 0.9754386  0.97191011 0.97759104 0.97833683]
+Mean F1 score: 0.9770442034206439
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.968682505399568, 0.958963282937365, 0.9632829373650108, 0.9676025917926566, 0.9611231101511879]
+Test set mean recall: 0.9639308855291577
+Test set best recall: 0.968682505399568
+Test set F1: [0.984092155787164, 0.9790518191841235, 0.9812981298129813, 0.9835345773874864, 0.9801762114537445]
+Test set mean F1: 0.9816305787251001
+Test set best F1: 0.984092155787164
+************************* With all the features  *************************
+Approach: Random Forest
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.99430199 1.         0.99569584 0.998557   0.99578059]
+Mean precision score: 0.9968670845775254
+Recall scores: [0.95747599 0.95747599 0.9532967  0.95054945 0.97252747]
+Mean recall score: 0.9582651230799379
+F1 scores: [0.97554158 0.9782761  0.97403509 0.973962   0.98401668]
+Mean F1 score: 0.9771662895179745
+Test set precision: [1.0, 1.0, 0.9988851727982163, 1.0, 0.9988888888888889]
+Test set mean precision: 0.9995548123374209
+Test set best precision: 1.0
+Test set recall: [0.9632829373650108, 0.9643628509719222, 0.9676025917926566, 0.9611231101511879, 0.9708423326133909]
+Test set mean recall: 0.9654427645788337
+Test set best recall: 0.9708423326133909
+Test set F1: [0.9812981298129813, 0.9818581638262781, 0.9829950630828306, 0.9801762114537445, 0.9846659364731654]
+Test set mean F1: 0.9821987009297999
+Test set best F1: 0.9846659364731654
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         0.98947368 1.         1.         1.        ]
+Mean precision score: 0.9978947368421054
+Recall scores: [0.83898305 0.8034188  0.71794872 0.76271186 0.77966102]
+Mean recall score: 0.7805446907141822
+F1 scores: [0.9124424  0.88679245 0.8358209  0.86538462 0.87619048]
+Mean F1 score: 0.8753261672482064
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.8156028368794326, 0.8156028368794326, 0.8085106382978723, 0.8156028368794326, 0.8156028368794326]
+Test set mean recall: 0.8141843971631205
+Test set best recall: 0.8156028368794326
+Test set F1: [0.8984375, 0.8984375, 0.8941176470588235, 0.8984375, 0.8984375]
+Test set mean F1: 0.8975735294117648
+Test set best F1: 0.8984375
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         0.98947368 1.         1.         1.        ]
+Mean precision score: 0.9978947368421054
+Recall scores: [0.83898305 0.8034188  0.71794872 0.76271186 0.77966102]
+Mean recall score: 0.7805446907141822
+F1 scores: [0.9124424  0.88679245 0.8358209  0.86538462 0.87619048]
+Mean F1 score: 0.8753261672482064
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.8156028368794326, 0.8156028368794326, 0.8085106382978723, 0.8156028368794326, 0.8156028368794326]
+Test set mean recall: 0.8141843971631205
+Test set best recall: 0.8156028368794326
+Test set F1: [0.8984375, 0.8984375, 0.8941176470588235, 0.8984375, 0.8984375]
+Test set mean F1: 0.8975735294117648
+Test set best F1: 0.8984375
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         0.98947368 1.         1.         1.        ]
+Mean precision score: 0.9978947368421054
+Recall scores: [0.83898305 0.8034188  0.71794872 0.76271186 0.77966102]
+Mean recall score: 0.7805446907141822
+F1 scores: [0.9124424  0.88679245 0.8358209  0.86538462 0.87619048]
+Mean F1 score: 0.8753261672482064
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.8156028368794326, 0.8156028368794326, 0.8085106382978723, 0.8156028368794326, 0.8156028368794326]
+Test set mean recall: 0.8141843971631205
+Test set best recall: 0.8156028368794326
+Test set F1: [0.8984375, 0.8984375, 0.8941176470588235, 0.8984375, 0.8984375]
+Test set mean F1: 0.8975735294117648
+Test set best F1: 0.8984375
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [1.         0.98947368 1.         1.         1.        ]
+Mean precision score: 0.9978947368421054
+Recall scores: [0.83898305 0.8034188  0.71794872 0.76271186 0.77966102]
+Mean recall score: 0.7805446907141822
+F1 scores: [0.9124424  0.88679245 0.8358209  0.86538462 0.87619048]
+Mean F1 score: 0.8753261672482064
+Test set precision: [1.0, 1.0, 1.0, 1.0, 1.0]
+Test set mean precision: 1.0
+Test set best precision: 1.0
+Test set recall: [0.8156028368794326, 0.8156028368794326, 0.8085106382978723, 0.8156028368794326, 0.8156028368794326]
+Test set mean recall: 0.8141843971631205
+Test set best recall: 0.8156028368794326
+Test set F1: [0.8984375, 0.8984375, 0.8941176470588235, 0.8984375, 0.8984375]
+Test set mean F1: 0.8975735294117648
+Test set best F1: 0.8984375
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.988006   0.9880597  0.98640483 0.98929664 0.98096633]
+Mean precision score: 0.9865466986906248
+Recall scores: [0.90397805 0.90809328 0.89697802 0.88873626 0.92032967]
+Mean recall score: 0.9036230573267611
+F1 scores: [0.94412607 0.94639028 0.93956835 0.93632417 0.94968108]
+Mean F1 score: 0.9432179887431369
+Test set precision: [0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545]
+Test set mean precision: 0.9976303317535546
+Test set best precision: 0.9976303317535545
+Test set recall: [0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385]
+Test set mean recall: 0.9092872570194384
+Test set best recall: 0.9092872570194385
+Test set F1: [0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311]
+Test set mean F1: 0.9514124293785311
+Test set best F1: 0.9514124293785311
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.988006   0.9880597  0.98640483 0.98929664 0.98096633]
+Mean precision score: 0.9865466986906248
+Recall scores: [0.90397805 0.90809328 0.89697802 0.88873626 0.92032967]
+Mean recall score: 0.9036230573267611
+F1 scores: [0.94412607 0.94639028 0.93956835 0.93632417 0.94968108]
+Mean F1 score: 0.9432179887431369
+Test set precision: [0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545]
+Test set mean precision: 0.9976303317535546
+Test set best precision: 0.9976303317535545
+Test set recall: [0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385]
+Test set mean recall: 0.9092872570194384
+Test set best recall: 0.9092872570194385
+Test set F1: [0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311]
+Test set mean F1: 0.9514124293785311
+Test set best F1: 0.9514124293785311
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.988006   0.9880597  0.98640483 0.98929664 0.98096633]
+Mean precision score: 0.9865466986906248
+Recall scores: [0.90397805 0.90809328 0.89697802 0.88873626 0.92032967]
+Mean recall score: 0.9036230573267611
+F1 scores: [0.94412607 0.94639028 0.93956835 0.93632417 0.94968108]
+Mean F1 score: 0.9432179887431369
+Test set precision: [0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545]
+Test set mean precision: 0.9976303317535546
+Test set best precision: 0.9976303317535545
+Test set recall: [0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385]
+Test set mean recall: 0.9092872570194384
+Test set best recall: 0.9092872570194385
+Test set F1: [0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311]
+Test set mean F1: 0.9514124293785311
+Test set best F1: 0.9514124293785311
+************************* With all the features  *************************
+Approach: SVM with rbf kernel
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.988006   0.9880597  0.98640483 0.98929664 0.98096633]
+Mean precision score: 0.9865466986906248
+Recall scores: [0.90397805 0.90809328 0.89697802 0.88873626 0.92032967]
+Mean recall score: 0.9036230573267611
+F1 scores: [0.94412607 0.94639028 0.93956835 0.93632417 0.94968108]
+Mean F1 score: 0.9432179887431369
+Test set precision: [0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545, 0.9976303317535545]
+Test set mean precision: 0.9976303317535546
+Test set best precision: 0.9976303317535545
+Test set recall: [0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385, 0.9092872570194385]
+Test set mean recall: 0.9092872570194384
+Test set best recall: 0.9092872570194385
+Test set F1: [0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311, 0.9514124293785311]
+Test set mean F1: 0.9514124293785311
+Test set best F1: 0.9514124293785311
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.93518519 0.49787234 1.         0.66470588 1.        ]
+Mean precision score: 0.8195526815927316
+Recall scores: [0.8559322  1.         0.72649573 0.95762712 0.76271186]
+Mean recall score: 0.860553382587281
+F1 scores: [0.89380531 0.66477273 0.84158416 0.78472222 0.86538462]
+Mean F1 score: 0.8100538066059839
+Test set precision: [0.9590163934426229, 0.705, 1.0, 0.8198757763975155, 1.0]
+Test set mean precision: 0.8967784339680277
+Test set best precision: 1.0
+Test set recall: [0.8297872340425532, 1.0, 0.8156028368794326, 0.9361702127659575, 0.8014184397163121]
+Test set mean recall: 0.876595744680851
+Test set best recall: 1.0
+Test set F1: [0.8897338403041826, 0.8269794721407624, 0.8984375, 0.8741721854304636, 0.889763779527559]
+Test set mean F1: 0.8758173554805936
+Test set best F1: 0.8984375
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.88235294 0.78358209 1.         0.98913043 0.52702703]
+Mean precision score: 0.836418498507669
+Recall scores: [0.88983051 0.8974359  0.7008547  0.77118644 0.99152542]
+Mean recall score: 0.8501665942343909
+F1 scores: [0.88607595 0.83665339 0.8241206  0.86666667 0.68823529]
+Mean F1 score: 0.8203503799241322
+Test set precision: [0.953125, 0.9202898550724637, 1.0, 1.0, 0.7368421052631579]
+Test set mean precision: 0.9220513920671243
+Test set best precision: 1.0
+Test set recall: [0.8652482269503546, 0.900709219858156, 0.8014184397163121, 0.8226950354609929, 0.9929078014184397]
+Test set mean recall: 0.876595744680851
+Test set best recall: 0.9929078014184397
+Test set F1: [0.9070631970260223, 0.9103942652329748, 0.889763779527559, 0.9027237354085603, 0.8459214501510575]
+Test set mean F1: 0.8911732854692348
+Test set best F1: 0.9103942652329748
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94392523 0.96938776 0.64071856 0.8125     1.        ]
+Mean precision score: 0.8733063103242305
+Recall scores: [0.8559322  0.81196581 0.91452991 0.88135593 0.77118644]
+Mean recall score: 0.8469940605533826
+F1 scores: [0.89777778 0.88372093 0.75352113 0.84552846 0.8708134 ]
+Mean F1 score: 0.8502723374369276
+Test set precision: [0.9836065573770492, 0.9913793103448276, 0.8516129032258064, 0.9477611940298507, 0.9913793103448276]
+Test set mean precision: 0.9531478550644723
+Test set best precision: 0.9913793103448276
+Test set recall: [0.851063829787234, 0.8156028368794326, 0.9361702127659575, 0.900709219858156, 0.8156028368794326]
+Test set mean recall: 0.8638297872340426
+Test set best recall: 0.9361702127659575
+Test set F1: [0.9125475285171102, 0.8949416342412451, 0.8918918918918919, 0.9236363636363636, 0.8949416342412451]
+Test set mean F1: 0.903591810505571
+Test set best F1: 0.9236363636363636
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 1
+Precision scores: [0.94285714 0.92380952 1.         0.97826087 1.        ]
+Mean precision score: 0.9689855072463768
+Recall scores: [0.83898305 0.82905983 0.72649573 0.76271186 0.77966102]
+Mean recall score: 0.7873822975517892
+F1 scores: [0.88789238 0.87387387 0.84158416 0.85714286 0.87619048]
+Mean F1 score: 0.8673367484609326
+Test set precision: [0.9831932773109243, 0.9596774193548387, 1.0, 1.0, 1.0]
+Test set mean precision: 0.9885741393331525
+Test set best precision: 1.0
+Test set recall: [0.8297872340425532, 0.8439716312056738, 0.8156028368794326, 0.8226950354609929, 0.8085106382978723]
+Test set mean recall: 0.8241134751773049
+Test set best recall: 0.8439716312056738
+Test set F1: [0.9, 0.8981132075471698, 0.8984375, 0.9027237354085603, 0.8941176470588235]
+Test set mean F1: 0.8986784180029108
+Test set best F1: 0.9027237354085603
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98556999 0.98848921 0.98684211 0.98978102 0.97214485]
+Mean precision score: 0.984565433632141
+Recall scores: [0.93689986 0.94238683 0.9271978  0.93131868 0.95879121]
+Mean recall score: 0.9393188772818404
+F1 scores: [0.96061885 0.96488764 0.95609065 0.9596603  0.96542185]
+Mean F1 score: 0.9613358578661764
+Test set precision: [0.9965596330275229, 0.9965714285714286, 1.0, 0.9977011494252873, 0.994343891402715]
+Test set mean precision: 0.9970352204853908
+Test set best precision: 1.0
+Test set recall: [0.9384449244060475, 0.9416846652267818, 0.9362850971922246, 0.937365010799136, 0.949244060475162]
+Test set mean recall: 0.9406047516198704
+Test set best recall: 0.949244060475162
+Test set F1: [0.9666295884315906, 0.9683509161576901, 0.9670942554378137, 0.9665924276169264, 0.9712707182320441]
+Test set mean F1: 0.967987581175213
+Test set best F1: 0.9712707182320441
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.98717949 0.98283262 0.98391813 0.89830508 0.99700599]
+Mean precision score: 0.9698482613259849
+Recall scores: [0.95061728 0.94238683 0.92445055 0.94642857 0.91483516]
+Mean recall score: 0.9357436801881247
+F1 scores: [0.96855346 0.96218487 0.95325779 0.92173913 0.95415473]
+Mean F1 score: 0.9519779963331654
+Test set precision: [0.9966024915062288, 0.9966101694915255, 0.9977011494252873, 0.965103598691385, 1.0]
+Test set mean precision: 0.9912034818228854
+Test set best precision: 1.0
+Test set recall: [0.9503239740820735, 0.9524838012958964, 0.937365010799136, 0.9557235421166307, 0.9092872570194385]
+Test set mean recall: 0.9410367170626349
+Test set best recall: 0.9557235421166307
+Test set F1: [0.972913211719182, 0.9740474875759249, 0.9665924276169264, 0.9603906673901248, 0.9524886877828054]
+Test set mean F1: 0.9652864964169927
+Test set best F1: 0.9740474875759249
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.9747191  0.99852507 0.98682284 0.96207865 1.        ]
+Mean precision score: 0.9844291333930514
+Recall scores: [0.95198903 0.92866941 0.92582418 0.94093407 0.85851648]
+Mean recall score: 0.9211866322977433
+F1 scores: [0.96321999 0.9623312  0.95535082 0.95138889 0.92387288]
+Mean F1 score: 0.9512327532528004
+Test set precision: [0.996606334841629, 1.0, 0.9976931949250288, 0.9865921787709497, 1.0]
+Test set mean precision: 0.9961783417075216
+Test set best precision: 1.0
+Test set recall: [0.9514038876889849, 0.9244060475161987, 0.9341252699784017, 0.9535637149028078, 0.8617710583153347]
+Test set mean recall: 0.9250539956803456
+Test set best recall: 0.9535637149028078
+Test set F1: [0.9734806629834254, 0.9607182940516273, 0.9648633575013943, 0.9697968149368479, 0.9257540603248259]
+Test set mean F1: 0.9589226379596243
+Test set best F1: 0.9734806629834254
+************************* With all the features  *************************
+Approach: MLP with (50, 100) hidden layer sizes
+Inputs: ['TargetIndex', 'TimeOfDay', 'EgoSpeed', 'TrafficAmount', 'KeepLane', 'Weather', 'F0_0', 'F1_0', 'F2_0', 'F3_0']
+Output: ['Y']
+Number of fitnesses included in input: 2
+Precision scores: [0.97887324 0.99708029 0.98273381 0.90649351 0.97896213]
+Mean precision score: 0.9688285965375754
+Recall scores: [0.95336077 0.93689986 0.93818681 0.95879121 0.95879121]
+Mean recall score: 0.9492059723541205
+F1 scores: [0.96594858 0.96605375 0.95994378 0.93190921 0.96877169]
+Mean F1 score: 0.9585254005976873
+Test set precision: [0.996606334841629, 1.0, 0.9932356257046223, 0.9665226781857451, 0.9965986394557823]
+Test set mean precision: 0.9905926556375558
+Test set best precision: 1.0
+Test set recall: [0.9514038876889849, 0.9406047516198704, 0.9514038876889849, 0.9665226781857451, 0.949244060475162]
+Test set mean recall: 0.9518358531317496
+Test set best recall: 0.9665226781857451
+Test set F1: [0.9734806629834254, 0.9693934335002783, 0.9718698290126861, 0.9665226781857451, 0.9723451327433629]
+Test set mean F1: 0.9707223472850997
+Test set best F1: 0.9734806629834254

@@ -1,0 +1,30 @@
+Threshold -1.650 for F1:	53
+Threshold -1.500 for F1:	55
+Threshold -1.350 for F1:	60
+Threshold -99.000 for F2:	2
+Threshold -90.000 for F2:	62
+Threshold -81.000 for F2:	340
+Threshold -1100.000 for F3:	141
+Threshold -1000.000 for F3:	148
+Threshold -900.000 for F3:	151
+Threshold -11.000 for F4:	32
+Threshold -10.000 for F4:	35
+Threshold -9.000 for F4:	38
+
+
+
+Failure Readable mode...
+
+F1 - RS(n=10) - RS(n=1): 56 - 8 
+F2 - RS(n=10) - RS(n=1): 62 - 13 
+F3 - RS(n=10) - RS(n=1): 148 - 34 
+F4 - RS(n=10) - RS(n=1): 36 - 6 
+
+
+
+Hard Flaky LateX mode...
+
+\multirow{2}{*}{CARLA} & \emph{F1}  & 53& 55& 60\\ \cline{2-5} 
+& \emph{F2}  & 2& 62& 340\\ \cline{2-5} 
+& \emph{F3}  & 141& 148& 151\\ \cline{2-5} 
+& \emph{F4}  & 32& 35& 38\\ \hline 
